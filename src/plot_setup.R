@@ -1,12 +1,14 @@
 library(tidyverse)
 library(here)
 library(cowplot)
-
 library(extrafont)
+
 # Needs to run once, to import fonts into extrafont database
 # and register with PDF output device
-# font_import()
-# loadfonts()
+if (is.null(fonts())) {
+  font_import()
+  loadfonts()
+}
 
 seriffamily <- "Sitka Text"
 sansfamily <- "Gill Sans MT"
@@ -29,14 +31,18 @@ options(
 
 theme_set(
   theme_bw(
-    base_size = 8,
+    base_size = 10,
     base_family = sansfamily,
     base_line_size = 0.25,
     base_rect_size = 0.5
   ) +
   theme(
     legend.key.size = unit(8, "pt"),
-    legend.spacing = unit(0, "pt")
+    legend.spacing = unit(0, "pt"),
+    legend.position = "bottom",
+    legend.direction = "vertical",
+    legend.box.margin = margin(),
+    legend.text.align = 0
   )
 )
 
@@ -60,9 +66,11 @@ palette_mass <- c(
   "t_N"  = "#CC79A7",  # pink
   "c"    = "#0072B2",  # blue
   "a"    = "#D55E00",  # vermillion
-  "n"    = "#630a75",   # purple
+  "n"    = "#630a75",  # purple
   "k"    = "#555555",
-  "l"    = "#555555"
+  "l"    = "#555555",
+  "total_metabolite" = "#555555",
+  "total_protein" = "#555555"
 )
 palette_fractions <- c(
   "f_Q"  = "#555555",

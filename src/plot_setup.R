@@ -84,8 +84,8 @@ palette_fractions <- c(
   "f_Z"  = "#555555"
 )
 palette_experiment <- c(
-  "kC" = "#D55E00",
-  "kN" = "#0072B2"
+  "sweep_kC" = "#56B4E9",
+  "sweep_kN" = "#CC79A7"
 )
 
 palette_experiment_long <- c(

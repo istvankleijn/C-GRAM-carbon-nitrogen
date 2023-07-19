@@ -54,37 +54,38 @@ fig_2C <- df_alloc %>%
       experiment == "sweep_kC" ~ "italic(k)[C]~varied",
       experiment == "sweep_kN" ~ "italic(k)[N]~varied"
     )
-  ) %>% {
-  ggplot(., aes(x = mu, y = allocation)) +
-  geom_vline(
-    data = filter(., experiment == "sweep_kC"),
-    aes(xintercept = 0.54),
-    linetype = "22",
-  ) +
-  geom_point(aes(colour = fraction)) +
-  facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
-  scale_colour_manual(
-    values = palette_fractions,
-    labels = c(
-      "f_C" = expression("carbon uptake" ~ E[C]),
-      "f_N" = expression("nitrogen uptake" ~ E[N]),
-      "f_Ef" = expression("respirofermentative enzyme" ~ E[Af]),
-      "f_Er" = expression("purely respiratory enzyme" ~ E[Ar])
-    ),
-    breaks = c("f_Ef", "f_Er", "f_N", "f_C")
-  ) +
-  guides(
-    colour = guide_legend(title.position = "left")
-  ) +
-  coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.8), expand = FALSE) +
-  labs(
-    x = expression("Growth rate" ~ italic(mu) ~ (h^{
-      -1
-    })),
-    y = "Allocation fraction",
-    colour = "Protein"
-  )
-}
+  ) %>%
+  {
+    ggplot(., aes(x = mu, y = allocation)) +
+      geom_vline(
+        data = filter(., experiment == "sweep_kC"),
+        aes(xintercept = 0.54),
+        linetype = "22",
+      ) +
+      geom_point(aes(colour = fraction), size = 1) +
+      facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
+      scale_colour_manual(
+        values = palette_fractions,
+        labels = c(
+          "f_C" = expression("carbon uptake" ~ E[C]),
+          "f_N" = expression("nitrogen uptake" ~ E[N]),
+          "f_Ef" = expression("respirofermentative enzyme" ~ E[Af]),
+          "f_Er" = expression("purely respiratory enzyme" ~ E[Ar])
+        ),
+        breaks = c("f_Ef", "f_Er", "f_N", "f_C")
+      ) +
+      guides(
+        colour = guide_legend(title.position = "left")
+      ) +
+      coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.8), expand = FALSE) +
+      labs(
+        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+          -1
+        })),
+        y = "Allocation fraction",
+        colour = "Protein"
+      )
+  }
 fig_2C
 
 fig_2D <- df_mass %>%
@@ -97,37 +98,38 @@ fig_2D <- df_mass %>%
       experiment == "sweep_kN" ~ "italic(k)[N]~varied"
     )
   ) %>%
-  filter(state_var %in% c("c", "a", "n", "total_metabolite")) %>% {
-  ggplot(., aes(x = mu, y = mass_fraction)) +
-  geom_vline(
-    data = filter(., experiment == "sweep_kC"),
-    aes(xintercept = 0.54),
-    linetype = "22",
-  ) +
-  geom_point(aes(colour = state_var), size = 1) +
-  facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
-  scale_colour_manual(
-    values = palette_mass,
-    labels = c(
-      "a" = expression("amino acid" ~ italic(a)),
-      "c" = expression("carbon" ~ italic(c)),
-      "n" = expression("nitrogen" ~ italic(n)),
-      "total_metabolite" = "total"
-    ),
-    breaks = c("total_metabolite", "c", "a", "n")
-  ) +
-  guides(
-    colour = guide_legend(title.position = "left")
-  ) +
-  coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.45), expand = FALSE) +
-  labs(
-    x = expression("Growth rate" ~ italic(mu) ~ (h^{
-      -1
-    })),
-    y = "Mass fraction",
-    colour = "Metabolite"
-  )
-}
+  filter(state_var %in% c("c", "a", "n", "total_metabolite")) %>%
+  {
+    ggplot(., aes(x = mu, y = mass_fraction)) +
+      geom_vline(
+        data = filter(., experiment == "sweep_kC"),
+        aes(xintercept = 0.54),
+        linetype = "22",
+      ) +
+      geom_point(aes(colour = state_var), size = 1) +
+      facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
+      scale_colour_manual(
+        values = palette_mass,
+        labels = c(
+          "a" = expression("amino acid" ~ italic(a)),
+          "c" = expression("carbon" ~ italic(c)),
+          "n" = expression("nitrogen" ~ italic(n)),
+          "total_metabolite" = "total"
+        ),
+        breaks = c("total_metabolite", "c", "a", "n")
+      ) +
+      guides(
+        colour = guide_legend(title.position = "left")
+      ) +
+      coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.45), expand = FALSE) +
+      labs(
+        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+          -1
+        })),
+        y = "Mass fraction",
+        colour = "Metabolite"
+      )
+  }
 fig_2D
 
 fig_2AB <- plot_grid(

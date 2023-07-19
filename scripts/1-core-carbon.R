@@ -81,8 +81,7 @@ fig_1D <- df_mass %>%
       -1
     })),
     y = "Mass fraction",
-    colour = "Metabolite",
-    size = "Metabolite"
+    colour = "Metabolite"
   )
 fig_1D
 

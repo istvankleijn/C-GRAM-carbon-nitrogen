@@ -1,12 +1,9 @@
 library(here)
 source(here("src", "plot_setup.R"))
 
-modelname <- "ketoacid-excretion"
-date <- "2022-06-16"
-datadir <- here("data", modelname, date)
 plotdir <- here("plots")
 
-df <- read_csv(file.path(datadir, "results.csv"))
+df <- read_csv(here("data", "results.csv"))
 df_alloc <- df %>%
   pivot_longer(
     cols = starts_with("f_"),

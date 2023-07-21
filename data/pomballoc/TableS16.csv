@@ -1,0 +1,1612 @@
+PomBaseIDs,annotations,class,subclass
+SPAC1002.09c,cellular amino acid metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,2: Precursors/Energy,Other
+SPAC1002.11,lipid metabolic process,4: Lipids,NA
+SPAC1002.12c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC1002.13c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC1002.17c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1002.19,vitamin metabolic process,5: Vitamins,NA
+SPAC1006.05c,lipid metabolic process,4: Lipids,NA
+SPAC1006.07,translation,0: Translation/RiBi,NA
+SPAC1039.01,transmembrane transport,6: Other metabolism,NA
+SPAC1039.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1039.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC1039.08,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC1039.09,transmembrane transport,6: Other metabolism,NA
+SPAC1039.10,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC105.01c,transmembrane transport,6: Other metabolism,NA
+SPAC1071.02,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC1071.05,translation,0: Translation/RiBi,NA
+SPAC1071.07c,translation,0: Translation/RiBi,NA
+SPAC1071.08,translation,0: Translation/RiBi,NA
+SPAC1071.10c,transmembrane transport,6: Other metabolism,NA
+SPAC1093.02,vitamin metabolic process,5: Vitamins,NA
+SPAC1093.05,translation,0: Translation/RiBi,NA
+SPAC10F6.01c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC10F6.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC10F6.10,translation,0: Translation/RiBi,NA
+SPAC10F6.13c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC10F6.17c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC110.03,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1142.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1142.04,translation,0: Translation/RiBi,NA
+SPAC1142.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC11D3.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC11D3.14c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC11D3.15,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC11D3.18c,transmembrane transport,6: Other metabolism,NA
+SPAC11E3.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC11E3.07,transmembrane transport,6: Other metabolism,NA
+SPAC11E3.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC11E3.13c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC11E3.15,translation,0: Translation/RiBi,NA
+SPAC11G7.03,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC11H11.01,vesicle-mediated transport,6: Other metabolism,NA
+SPAC11H11.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1250.05,translation,0: Translation/RiBi,NA
+SPAC1296.01c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1296.02,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC1296.06,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC12B10.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC12B10.09,transmembrane transport,6: Other metabolism,NA
+SPAC12B10.16c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC12G12.02,translation,0: Translation/RiBi,NA
+SPAC12G12.04,transmembrane transport,6: Other metabolism,NA
+SPAC12G12.06c,translation,0: Translation/RiBi,NA
+SPAC12G12.12,transmembrane transport,6: Other metabolism,NA
+SPAC139.02c,transmembrane transport,6: Other metabolism,NA
+SPAC139.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC139.05,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC1399.01c,transmembrane transport,6: Other metabolism,NA
+SPAC1399.03,transmembrane transport,6: Other metabolism,NA
+SPAC13A11.02c,lipid metabolic process,4: Lipids,NA
+SPAC13C5.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC13F5.03c,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process,2: Precursors/Energy,Other
+SPAC13F5.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC13F5.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC13G6.02c,translation,0: Translation/RiBi,NA
+SPAC13G6.03,lipid metabolic process,4: Lipids,NA
+SPAC13G6.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC13G6.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC13G6.07c,translation,0: Translation/RiBi,NA
+SPAC13G6.09,translation,0: Translation/RiBi,NA
+SPAC13G6.10c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC13G6.11c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC13G6.14,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC13G7.01c,lipid metabolic process,4: Lipids,NA
+SPAC13G7.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC13G7.05,lipid metabolic process,4: Lipids,NA
+SPAC13G7.06,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC13G7.08c,translation,0: Translation/RiBi,NA
+SPAC13G7.12c,lipid metabolic process,4: Lipids,NA
+SPAC140.01,generation of precursor metabolites and energy;oxidative phosphorylation;tricarboxylic acid cycle,2: Precursors/Energy,OXPHOS
+SPAC140.02,translation,0: Translation/RiBi,NA
+SPAC144.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC144.04c,cellular amino acid metabolic process;vitamin metabolic process,3: Amino acids,NA
+SPAC144.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC144.08,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC144.10c,lipid metabolic process,4: Lipids,NA
+SPAC144.12,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC144.15c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC144.16,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC144.18,transmembrane transport,6: Other metabolism,NA
+SPAC1486.05,translation,0: Translation/RiBi,NA
+SPAC1486.06,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1486.09,translation,0: Translation/RiBi,NA
+SPAC14C4.07,transmembrane transport,6: Other metabolism,NA
+SPAC14C4.11,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC14C4.14,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC1527.02,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1556.02c,generation of precursor metabolites and energy;oxidative phosphorylation;tricarboxylic acid cycle,2: Precursors/Energy,OXPHOS
+SPAC1556.04c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1556.07,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1565.05,translation,0: Translation/RiBi,NA
+SPAC15A10.01,sulfur compound metabolic process;transmembrane transport,6: Other metabolism,NA
+SPAC15A10.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC15A10.06,transmembrane transport,6: Other metabolism,NA
+SPAC15A10.12c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC15E1.03,translation,0: Translation/RiBi,NA
+SPAC15E1.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC15E1.05c,lipid metabolic process,4: Lipids,NA
+SPAC15E1.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC16.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1635.01,transmembrane transport,6: Other metabolism,NA
+SPAC1639.01c,lipid metabolic process,4: Lipids,NA
+SPAC167.02,vesicle-mediated transport,6: Other metabolism,NA
+SPAC167.03c,translation,0: Translation/RiBi,NA
+SPAC167.04,transmembrane transport,6: Other metabolism,NA
+SPAC167.09,lipid metabolic process,4: Lipids,NA
+SPAC1687.06c,translation,0: Translation/RiBi,NA
+SPAC1687.11,translation,0: Translation/RiBi,NA
+SPAC1687.16c,lipid metabolic process,4: Lipids,NA
+SPAC16A10.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC16C9.02c,cellular amino acid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC16C9.03,translation,0: Translation/RiBi,NA
+SPAC16E8.01,vesicle-mediated transport,6: Other metabolism,NA
+SPAC16E8.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC16E8.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC16E8.06c,translation,0: Translation/RiBi,NA
+SPAC16E8.07c,transmembrane transport,6: Other metabolism,NA
+SPAC16E8.10c,translation,0: Translation/RiBi,NA
+SPAC16E8.15,translation,0: Translation/RiBi,NA
+SPAC16E8.17c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC1751.03,translation,0: Translation/RiBi,NA
+SPAC1751.04,translation,0: Translation/RiBi,NA
+SPAC1782.07,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC1782.10c,translation,0: Translation/RiBi,NA
+SPAC1782.11,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC1783.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC1783.02c,lipid metabolic process,4: Lipids,NA
+SPAC1783.08c,translation,0: Translation/RiBi,NA
+SPAC1786.01c,lipid metabolic process,4: Lipids,NA
+SPAC1786.02,lipid metabolic process,4: Lipids,NA
+SPAC17A2.01,transmembrane transport,6: Other metabolism,NA
+SPAC17A2.03c,transmembrane transport,6: Other metabolism,NA
+SPAC17A2.05,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC17A2.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17A2.14,transmembrane transport,6: Other metabolism,NA
+SPAC17A5.03;SPAPB8E5.06c,translation,0: Translation/RiBi,NA
+SPAC17A5.08,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17A5.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17A5.13,vitamin metabolic process,5: Vitamins,NA
+SPAC17A5.15c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC17C9.03,translation,0: Translation/RiBi,NA
+SPAC17C9.07,lipid metabolic process,4: Lipids,NA
+SPAC17C9.10,transmembrane transport,6: Other metabolism,NA
+SPAC17C9.12,lipid metabolic process,4: Lipids,NA
+SPAC17D4.01,transmembrane transport,6: Other metabolism,NA
+SPAC17D4.03c,transmembrane transport,6: Other metabolism,NA
+SPAC17G6.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC17G6.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17G6.06,translation,0: Translation/RiBi,NA
+SPAC17G6.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17G6.08,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17G6.09,transmembrane transport,6: Other metabolism,NA
+SPAC17G6.11c,carbohydrate metabolic process;lipid metabolic process,4: Lipids,NA
+SPAC17G6.15c,transmembrane transport,6: Other metabolism,NA
+SPAC17G8.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC17G8.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17G8.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC17G8.08c,transmembrane transport,6: Other metabolism,NA
+SPAC17G8.11c,lipid metabolic process,4: Lipids,NA
+SPAC17G8.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC17H9.02,translation,0: Translation/RiBi,NA
+SPAC17H9.05,translation,0: Translation/RiBi,NA
+SPAC17H9.12c,lipid metabolic process,4: Lipids,NA
+SPAC17H9.13c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC17H9.16,transmembrane transport,6: Other metabolism,NA
+SPAC1805.02c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC1805.06c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC1805.11c,translation,0: Translation/RiBi,NA
+SPAC1805.12c;SPAC11G7.04,translation,0: Translation/RiBi,NA
+SPAC1805.13,translation,0: Translation/RiBi,NA
+SPAC1805.16c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1805.17,translation,0: Translation/RiBi,NA
+SPAC1805.18,translation,0: Translation/RiBi,NA
+SPAC1834.01,translation,0: Translation/RiBi,NA
+SPAC1834.05,lipid metabolic process,4: Lipids,NA
+SPAC1834.07,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1834.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1851.02,lipid metabolic process,4: Lipids,NA
+SPAC18B11.06,translation,0: Translation/RiBi,NA
+SPAC18G6.04c,cellular amino acid metabolic process;vitamin metabolic process,3: Amino acids,NA
+SPAC18G6.06,translation,0: Translation/RiBi,NA
+SPAC18G6.07c,translation,0: Translation/RiBi,NA
+SPAC18G6.14c,translation,0: Translation/RiBi,NA
+SPAC1952.08c,vitamin metabolic process,5: Vitamins,NA
+SPAC1952.09c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC1952.11c,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPAC1952.13,lipid metabolic process,4: Lipids,NA
+SPAC1952.17c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC19A8.03,lipid metabolic process,4: Lipids,NA
+SPAC19A8.04,lipid metabolic process,4: Lipids,NA
+SPAC19A8.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC19A8.07c,translation,0: Translation/RiBi,NA
+SPAC19A8.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC19A8.15,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC19B12.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC19B12.03,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC19B12.10,vesicle-mediated transport,6: Other metabolism,NA
+SPAC19B12.11c,translation,0: Translation/RiBi,NA
+SPAC19D5.04,translation,0: Translation/RiBi,NA
+SPAC19D5.05c,translation,0: Translation/RiBi,NA
+SPAC19D5.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC19E9.01c,translation,0: Translation/RiBi,NA
+SPAC19G12.03,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC19G12.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC19G12.05,transmembrane transport,6: Other metabolism,NA
+SPAC19G12.08,lipid metabolic process,4: Lipids,NA
+SPAC19G12.12,lipid metabolic process,4: Lipids,NA
+SPAC19G12.14,lipid metabolic process,4: Lipids,NA
+SPAC19G12.15c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC1A6.02,translation,0: Translation/RiBi,NA
+SPAC1A6.03c,lipid metabolic process,4: Lipids,NA
+SPAC1A6.04c,lipid metabolic process,4: Lipids,NA
+SPAC1A6.05c,lipid metabolic process,4: Lipids,NA
+SPAC1A6.09c,lipid metabolic process,4: Lipids,NA
+SPAC1B1.02c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1B2.02c,transmembrane transport,6: Other metabolism,NA
+SPAC1B2.03c,lipid metabolic process,4: Lipids,NA
+SPAC1B2.04,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC1B3.01c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1B3.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1B3.09c,translation,0: Translation/RiBi,NA
+SPAC1B3.13,translation,0: Translation/RiBi,NA
+SPAC1B3.14,transmembrane transport,6: Other metabolism,NA
+SPAC1B3.16c,transmembrane transport,6: Other metabolism,NA
+SPAC1B9.03c,translation,0: Translation/RiBi,NA
+SPAC1D4.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1D4.08,lipid metabolic process,4: Lipids,NA
+SPAC1F12.04c,lipid metabolic process,4: Lipids,NA
+SPAC1F12.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1F12.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC1F12.08,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1F12.09,lipid metabolic process,4: Lipids,NA
+SPAC1F12.10c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC1F3.01,translation,0: Translation/RiBi,NA
+SPAC1F3.03,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1F3.04c,translation,0: Translation/RiBi,NA
+SPAC1F3.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1F5.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC1F5.06,translation,0: Translation/RiBi,NA
+SPAC1F5.07c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC1F5.10,translation,0: Translation/RiBi,NA
+SPAC1F7.02c,translation,0: Translation/RiBi,NA
+SPAC1F7.03,transmembrane transport,6: Other metabolism,NA
+SPAC1F7.05,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC1F7.07c,transmembrane transport,6: Other metabolism,NA
+SPAC1F7.09c,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPAC1F8.03c,transmembrane transport,6: Other metabolism,NA
+SPAC1F8.07c,generation of precursor metabolites and energy,2: Precursors/Energy,Fermentation: Pdc101
+SPAC20G4.07c,lipid metabolic process,4: Lipids,NA
+SPAC20G8.03,transmembrane transport,6: Other metabolism,NA
+SPAC20G8.04c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC20G8.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC20G8.07c,lipid metabolic process,4: Lipids,NA
+SPAC20G8.09c,translation,0: Translation/RiBi,NA
+SPAC20H4.01,translation,0: Translation/RiBi,NA
+SPAC20H4.05c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC21E11.04,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC21E11.06,translation,0: Translation/RiBi,NA
+SPAC21E11.07,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC21E11.08,lipid metabolic process,4: Lipids,NA
+SPAC222.06,translation,0: Translation/RiBi,NA
+SPAC222.08c,vitamin metabolic process,5: Vitamins,NA
+SPAC222.11,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC222.12c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC227.02c,translation,0: Translation/RiBi,NA
+SPAC227.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC227.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC227.13c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC227.14,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC227.18,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC22A12.08c,lipid metabolic process,4: Lipids,NA
+SPAC22A12.10,lipid metabolic process,4: Lipids,NA
+SPAC22A12.11,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC22A12.12c,translation,0: Translation/RiBi,NA
+SPAC22A12.16,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC22E12.01,transmembrane transport,6: Other metabolism,NA
+SPAC22E12.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC22E12.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC22E12.10c,generation of precursor metabolites and energy;sulfur compound metabolic process;tetrapyrrole metabolic process,2: Precursors/Energy,Other
+SPAC22E12.13c,translation,0: Translation/RiBi,NA
+SPAC22E12.17c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC22F3.07c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC22F3.08c,translation,0: Translation/RiBi,NA
+SPAC22F3.10c,cellular amino acid metabolic process;secondary metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC22F8.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC22F8.04,transmembrane transport,6: Other metabolism,NA
+SPAC22F8.05,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC22F8.08,vesicle-mediated transport,6: Other metabolism,NA
+SPAC22F8.09,translation,0: Translation/RiBi,NA
+SPAC22F8.11,lipid metabolic process,4: Lipids,NA
+SPAC22G7.05,translation,0: Translation/RiBi,NA
+SPAC22G7.06c,cellular amino acid metabolic process;nucleobase-containing small molecule metabolic process,3: Amino acids,NA
+SPAC22H10.12c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC22H12.03,lipid metabolic process,4: Lipids,NA
+SPAC22H12.04c,translation,0: Translation/RiBi,NA
+SPAC23A1.02c,lipid metabolic process,4: Lipids,NA
+SPAC23A1.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC23A1.05,lipid metabolic process,4: Lipids,NA
+SPAC23A1.08c;SPCC1322.15,translation,0: Translation/RiBi,NA
+SPAC23A1.11,translation,0: Translation/RiBi,NA
+SPAC23A1.12c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC23A1.14c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC23A1.15c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23C11.03,translation,0: Translation/RiBi,NA
+SPAC23C11.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC23C11.13c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC23C11.14,transmembrane transport,6: Other metabolism,NA
+SPAC23C4.11,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC23C4.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23C4.13,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23C4.14,lipid metabolic process,4: Lipids,NA
+SPAC23D3.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23D3.04c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC23D3.06c,translation,0: Translation/RiBi,NA
+SPAC23D3.10c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC23D3.11,lipid metabolic process,4: Lipids,NA
+SPAC23D3.12,transmembrane transport,6: Other metabolism,NA
+SPAC23D3.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23G3.02c,cellular amino acid metabolic process;secondary metabolic process,3: Amino acids,NA
+SPAC23G3.03,secondary metabolic process,6: Other metabolism,NA
+SPAC23G3.06,translation,0: Translation/RiBi,NA
+SPAC23G3.12c,lipid metabolic process,4: Lipids,NA
+SPAC23H3.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23H3.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC23H3.12c,transmembrane transport,6: Other metabolism,NA
+SPAC23H3.14,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23H4.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23H4.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23H4.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC23H4.10c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPAC23H4.14,vesicle-mediated transport,6: Other metabolism,NA
+SPAC23H4.15,translation,0: Translation/RiBi,NA
+SPAC24B11.05,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC24B11.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC24B11.09,transmembrane transport,6: Other metabolism,NA
+SPAC24B11.13,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC24C9.03,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC24C9.06c,cellular amino acid metabolic process;generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC24C9.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC24C9.11,translation,0: Translation/RiBi,NA
+SPAC24C9.12c,cellular amino acid metabolic process;vitamin metabolic process,3: Amino acids,NA
+SPAC24C9.16c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC24H6.01c,lipid metabolic process,4: Lipids,NA
+SPAC24H6.02c,transmembrane transport,6: Other metabolism,NA
+SPAC24H6.04,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPAC24H6.07,translation,0: Translation/RiBi,NA
+SPAC24H6.11c,transmembrane transport,6: Other metabolism,NA
+SPAC24H6.13,transmembrane transport,6: Other metabolism,NA
+SPAC25B8.01,lipid metabolic process,4: Lipids,NA
+SPAC25B8.03,lipid metabolic process,4: Lipids,NA
+SPAC25B8.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC25B8.09,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC25B8.16,translation,0: Translation/RiBi,NA
+SPAC25G10.05c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC25G10.08,translation,0: Translation/RiBi,NA
+SPAC25G10.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC25H1.08c,translation,0: Translation/RiBi,NA
+SPAC25H1.10c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPAC26A3.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC26A3.06,translation,0: Translation/RiBi,NA
+SPAC26A3.11,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC26A3.12c,translation,0: Translation/RiBi,NA
+SPAC26A3.15c,translation,0: Translation/RiBi,NA
+SPAC26A3.17c,translation,0: Translation/RiBi,NA
+SPAC26F1.01,vesicle-mediated transport,6: Other metabolism,NA
+SPAC26F1.03,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPAC26F1.04c,lipid metabolic process,4: Lipids,NA
+SPAC26F1.06,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPAC26F1.07,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC26F1.09,vesicle-mediated transport,6: Other metabolism,NA
+SPAC26F1.13c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC26H5.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC26H5.08c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC26H5.09c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC26H5.10c,translation,0: Translation/RiBi,NA
+SPAC26H5.13c,lipid metabolic process,4: Lipids,NA
+SPAC27D7.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC27D7.06,generation of precursor metabolites and energy;lipid metabolic process,2: Precursors/Energy,Other
+SPAC27E2.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC27E2.07,carbohydrate metabolic process;lipid metabolic process,4: Lipids,NA
+SPAC27F1.08,transmembrane transport,6: Other metabolism,NA
+SPAC29A4.02c,translation,0: Translation/RiBi,NA
+SPAC29A4.04c,translation,0: Translation/RiBi,NA
+SPAC29A4.09,translation,0: Translation/RiBi,NA
+SPAC29A4.15,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC29B12.04,cellular amino acid metabolic process;sulfur compound metabolic process;vitamin metabolic process,3: Amino acids,NA
+SPAC29B12.07,vesicle-mediated transport,6: Other metabolism,NA
+SPAC29B12.10c,transmembrane transport,6: Other metabolism,NA
+SPAC29E6.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC29E6.05c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC29E6.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC2C4.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC2C4.09,transmembrane transport,6: Other metabolism,NA
+SPAC2C4.11c,translation,0: Translation/RiBi,NA
+SPAC2C4.17c,transmembrane transport,6: Other metabolism,NA
+SPAC2E1P5.05,translation,0: Translation/RiBi,NA
+SPAC2F3.05c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC2F3.08,transmembrane transport,6: Other metabolism,NA
+SPAC2F3.09,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC2F3.10,vesicle-mediated transport,6: Other metabolism,NA
+SPAC2F3.11,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC2F3.17c,translation,0: Translation/RiBi,NA
+SPAC2F7.05c,translation,0: Translation/RiBi,NA
+SPAC2F7.13c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC2F7.14c,translation,0: Translation/RiBi,NA
+SPAC2F7.16c,lipid metabolic process,4: Lipids,NA
+SPAC2G11.02,translation,0: Translation/RiBi,NA
+SPAC2G11.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC2G11.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC2G11.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC2G11.09,transmembrane transport,6: Other metabolism,NA
+SPAC2G11.11c,translation,0: Translation/RiBi,NA
+SPAC30.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC30.04c,transmembrane transport,6: Other metabolism,NA
+SPAC30C2.04,cellular amino acid metabolic process;translation,0: Translation/RiBi,NA
+SPAC30C2.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC30D11.01c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC30D11.03,translation,0: Translation/RiBi,NA
+SPAC30D11.04c,translation,0: Translation/RiBi,NA
+SPAC30D11.12,translation,0: Translation/RiBi,NA
+SPAC31A2.02,translation,0: Translation/RiBi,NA
+SPAC31A2.03,translation,0: Translation/RiBi,NA
+SPAC31A2.07c,translation,0: Translation/RiBi,NA
+SPAC31A2.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC31A2.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC31A2.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC31G5.03;SPAC144.11,translation,0: Translation/RiBi,NA
+SPAC31G5.04,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC31G5.05c,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC31G5.08,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC31G5.14,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC31G5.15,lipid metabolic process,4: Lipids,NA
+SPAC31G5.16c,lipid metabolic process,4: Lipids,NA
+SPAC31G5.17c,translation,0: Translation/RiBi,NA
+SPAC323.07c,transmembrane transport,6: Other metabolism,NA
+SPAC328.03,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC328.09,transmembrane transport,6: Other metabolism,NA
+SPAC328.10c,translation,0: Translation/RiBi,NA
+SPAC32A11.04c,translation,0: Translation/RiBi,NA
+SPAC343.01c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC343.05,transmembrane transport,6: Other metabolism,NA
+SPAC343.10,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC343.13,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC343.14c,translation,0: Translation/RiBi,NA
+SPAC343.16,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC343.19,lipid metabolic process,4: Lipids,NA
+SPAC3A11.06,vesicle-mediated transport,6: Other metabolism,NA
+SPAC3A11.07,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC3A11.09,transmembrane transport,6: Other metabolism,NA
+SPAC3A12.04c,translation,0: Translation/RiBi,NA
+SPAC3A12.08,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPAC3A12.09c,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPAC3A12.10;SPAC26A3.04,translation,0: Translation/RiBi,NA
+SPAC3A12.13c,translation,0: Translation/RiBi,NA
+SPAC3A12.15,vesicle-mediated transport,6: Other metabolism,NA
+SPAC3A12.16c,transmembrane transport,6: Other metabolism,NA
+SPAC3A12.17c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC3A12.18,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC3C7.01c,lipid metabolic process,4: Lipids,NA
+SPAC3C7.05c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC3C7.10,transmembrane transport,6: Other metabolism,NA
+SPAC3C7.13c,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC3F10.03,cellular amino acid metabolic process;nucleobase-containing small molecule metabolic process,3: Amino acids,NA
+SPAC3F10.04,secondary metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPAC3F10.08c,translation,0: Translation/RiBi,NA
+SPAC3F10.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC3F10.11c,transmembrane transport,6: Other metabolism,NA
+SPAC3F10.16c,translation,0: Translation/RiBi,NA
+SPAC3F10.17,translation,0: Translation/RiBi,NA
+SPAC3F10.19,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC3G6.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC3G6.04,translation,0: Translation/RiBi,NA
+SPAC3G6.09c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC3G9.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC3G9.09c,translation,0: Translation/RiBi,NA
+SPAC3G9.10c,translation,0: Translation/RiBi,NA
+SPAC3G9.11c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC3G9.15c,translation,0: Translation/RiBi,NA
+SPAC3G9.16c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC3H1.06c;SPAC1399.02,transmembrane transport,6: Other metabolism,NA
+SPAC3H1.07,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPAC3H1.09c,transmembrane transport,6: Other metabolism,NA
+SPAC3H1.10,secondary metabolic process,6: Other metabolism,NA
+SPAC3H5.07,translation,0: Translation/RiBi,NA
+SPAC3H5.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC3H5.10,translation,0: Translation/RiBi,NA
+SPAC3H5.11,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC3H8.06,lipid metabolic process,4: Lipids,NA
+SPAC3H8.10,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4A8.07c,lipid metabolic process,4: Lipids,NA
+SPAC4A8.08c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC4A8.10,lipid metabolic process,4: Lipids,NA
+SPAC4A8.11c,lipid metabolic process,4: Lipids,NA
+SPAC4A8.14,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC4A8.16c,translation,0: Translation/RiBi,NA
+SPAC4C5.01,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC4C5.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4D7.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4D7.02c,lipid metabolic process,4: Lipids,NA
+SPAC4D7.04c,lipid metabolic process,4: Lipids,NA
+SPAC4D7.05,translation,0: Translation/RiBi,NA
+SPAC4D7.06c,sulfur compound metabolic process;tetrapyrrole metabolic process,6: Other metabolism,NA
+SPAC4D7.08c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC4D7.09,translation,0: Translation/RiBi,NA
+SPAC4F10.06,translation,0: Translation/RiBi,NA
+SPAC4F10.09c,translation,0: Translation/RiBi,NA
+SPAC4F10.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4F10.15c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4F10.19c,translation,0: Translation/RiBi,NA
+SPAC4F8.01,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4F8.03,translation,0: Translation/RiBi,NA
+SPAC4F8.04,translation,0: Translation/RiBi,NA
+SPAC4F8.07c,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPAC4F8.14c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC4G8.02c,transmembrane transport,6: Other metabolism,NA
+SPAC4G8.08,transmembrane transport,6: Other metabolism,NA
+SPAC4G8.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC4G8.10,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4G9.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC4G9.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC4G9.10,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPAC4G9.12,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process,2: Precursors/Energy,Other
+SPAC4G9.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC4G9.15,lipid metabolic process,4: Lipids,NA
+SPAC4G9.16c,translation,0: Translation/RiBi,NA
+SPAC4G9.20c,transmembrane transport,6: Other metabolism,NA
+SPAC4H3.01,transmembrane transport,6: Other metabolism,NA
+SPAC4H3.07c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC4H3.08,lipid metabolic process,4: Lipids,NA
+SPAC4H3.09,lipid metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC4H3.10c,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPAC513.05,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC513.06c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC521.04c,transmembrane transport,6: Other metabolism,NA
+SPAC521.05;SPAC2C4.16c,translation,0: Translation/RiBi,NA
+SPAC56E4.02c,lipid metabolic process,4: Lipids,NA
+SPAC56E4.03,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC56E4.04c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPAC56E4.06c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC56F8.02,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPAC56F8.03,translation,0: Translation/RiBi,NA
+SPAC56F8.04c,lipid metabolic process,4: Lipids,NA
+SPAC56F8.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC56F8.09,translation,0: Translation/RiBi,NA
+SPAC56F8.10,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC57A10.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC57A10.11c,transmembrane transport,6: Other metabolism,NA
+SPAC57A10.12c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC57A7.05,transmembrane transport,6: Other metabolism,NA
+SPAC57A7.06,translation,0: Translation/RiBi,NA
+SPAC57A7.07c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC57A7.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC589.03c,translation,0: Translation/RiBi,NA
+SPAC589.12,lipid metabolic process,4: Lipids,NA
+SPAC5D6.01;SPAC22A12.04c,translation,0: Translation/RiBi,NA
+SPAC5D6.04,transmembrane transport,6: Other metabolism,NA
+SPAC5D6.06c,lipid metabolic process,4: Lipids,NA
+SPAC5D6.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC5D6.13,vesicle-mediated transport,6: Other metabolism,NA
+SPAC5H10.01,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC5H10.06c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC5H10.08c,vitamin metabolic process,5: Vitamins,NA
+SPAC5H10.09c,vitamin metabolic process,5: Vitamins,NA
+SPAC607.03c,translation,0: Translation/RiBi,NA
+SPAC607.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC607.09c,transmembrane transport,6: Other metabolism,NA
+SPAC630.03,vesicle-mediated transport,6: Other metabolism,NA
+SPAC630.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC630.08c,lipid metabolic process,4: Lipids,NA
+SPAC630.11,vesicle-mediated transport,6: Other metabolism,NA
+SPAC630.12,lipid metabolic process,4: Lipids,NA
+SPAC637.04,vesicle-mediated transport,6: Other metabolism,NA
+SPAC637.05c,transmembrane transport,6: Other metabolism,NA
+SPAC637.07,translation,0: Translation/RiBi,NA
+SPAC637.08,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC637.09,translation,0: Translation/RiBi,NA
+SPAC644.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC644.08,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC644.09,vitamin metabolic process,5: Vitamins,NA
+SPAC644.11c,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPAC644.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC644.15,translation,0: Translation/RiBi,NA
+SPAC644.18c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC664.05,translation,0: Translation/RiBi,NA
+SPAC664.06,translation,0: Translation/RiBi,NA
+SPAC664.08c,translation,0: Translation/RiBi,NA
+SPAC664.09,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC664.11,sulfur compound metabolic process;transmembrane transport,6: Other metabolism,NA
+SPAC664.14,transmembrane transport,6: Other metabolism,NA
+SPAC688.11,vesicle-mediated transport,6: Other metabolism,NA
+SPAC694.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC6B12.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC6B12.12,transmembrane transport,6: Other metabolism,NA
+SPAC6B12.19,translation,0: Translation/RiBi,NA
+SPAC6C3.04,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC6C3.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6C3.09,translation,0: Translation/RiBi,NA
+SPAC6F12.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6F12.04,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6F12.05c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPAC6F12.07,transmembrane transport,6: Other metabolism,NA
+SPAC6F12.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6F12.10c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC6F12.13c,lipid metabolic process,4: Lipids,NA
+SPAC6F12.16c,translation,0: Translation/RiBi,NA
+SPAC6F6.03c,translation,0: Translation/RiBi,NA
+SPAC6F6.07c,translation,0: Translation/RiBi,NA
+SPAC6F6.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6F6.11c,vitamin metabolic process,5: Vitamins,NA
+SPAC6F6.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6F6.15,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6G10.03c,lipid metabolic process,4: Lipids,NA
+SPAC6G10.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6G10.08,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPAC6G10.09,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC6G10.11c;SPAC589.10c;SPBC337.08c,translation,0: Translation/RiBi,NA
+SPAC6G9.02c,translation,0: Translation/RiBi,NA
+SPAC6G9.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6G9.11,vesicle-mediated transport,6: Other metabolism,NA
+SPAC6G9.12,carbohydrate metabolic process;vesicle-mediated transport,6: Other metabolism,NA
+SPAC732.01,transmembrane transport,6: Other metabolism,NA
+SPAC732.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC767.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC7D4.06c,lipid metabolic process,4: Lipids,NA
+SPAC7D4.07c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC7D4.10,transmembrane transport,6: Other metabolism,NA
+SPAC7D4.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC806.02c,sulfur compound metabolic process,6: Other metabolism,NA
+SPAC806.03c,translation,0: Translation/RiBi,NA
+SPAC806.06c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC806.07,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC821.05,translation,0: Translation/RiBi,NA
+SPAC821.09,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC821.11,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC823.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC823.08c,translation,0: Translation/RiBi,NA
+SPAC823.10c,transmembrane transport,6: Other metabolism,NA
+SPAC823.11,lipid metabolic process,4: Lipids,NA
+SPAC823.12,vesicle-mediated transport,6: Other metabolism,NA
+SPAC823.17,transmembrane transport,6: Other metabolism,NA
+SPAC824.05,vesicle-mediated transport,6: Other metabolism,NA
+SPAC824.06,transmembrane transport,6: Other metabolism,NA
+SPAC824.08,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPAC824.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC869.03c,transmembrane transport,6: Other metabolism,NA
+SPAC869.05c,transmembrane transport,6: Other metabolism,NA
+SPAC869.10c,transmembrane transport,6: Other metabolism,NA
+SPAC869.11;SPBC359.01,transmembrane transport,6: Other metabolism,NA
+SPAC890.04c,translation,0: Translation/RiBi,NA
+SPAC890.06,translation,0: Translation/RiBi,NA
+SPAC890.08,translation,0: Translation/RiBi,NA
+SPAC8C9.08,translation,0: Translation/RiBi,NA
+SPAC8C9.10c,translation,0: Translation/RiBi,NA
+SPAC8C9.12c,transmembrane transport,6: Other metabolism,NA
+SPAC8C9.15c,translation,0: Translation/RiBi,NA
+SPAC8E11.01c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC8E11.10,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC8F11.04,translation,0: Translation/RiBi,NA
+SPAC8F11.09c,vitamin metabolic process,5: Vitamins,NA
+SPAC8F11.10c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC9.06c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC9.08c,lipid metabolic process,4: Lipids,NA
+SPAC9.09,cellular amino acid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPAC9.10,transmembrane transport,6: Other metabolism,NA
+SPAC922.03,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPAC922.07c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC926.08c,translation,0: Translation/RiBi,NA
+SPAC926.09c,lipid metabolic process,4: Lipids,NA
+SPAC959.02,vesicle-mediated transport,6: Other metabolism,NA
+SPAC959.03c,translation,0: Translation/RiBi,NA
+SPAC959.07,translation,0: Translation/RiBi,NA
+SPAC959.08,translation,0: Translation/RiBi,NA
+SPAC977.12,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC977.14c;SPAC750.01,transmembrane transport,6: Other metabolism,NA
+SPAC977.16c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAC9E9.03,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC9E9.04,vesicle-mediated transport,6: Other metabolism,NA
+SPAC9E9.06c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAC9E9.07c,vesicle-mediated transport,6: Other metabolism,NA
+SPAC9E9.09c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPAC9E9.11,vitamin metabolic process,5: Vitamins,NA
+SPAC9E9.14,vesicle-mediated transport,6: Other metabolism,NA
+SPAC9G1.03c,translation,0: Translation/RiBi,NA
+SPAC9G1.10c,carbohydrate metabolic process;lipid metabolic process,4: Lipids,NA
+SPACUNK4.07c,transmembrane transport,6: Other metabolism,NA
+SPACUNK4.10,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPACUNK4.11c,translation,0: Translation/RiBi,NA
+SPACUNK4.15,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPACUNK4.16c,carbohydrate metabolic process,6: Other metabolism,NA
+SPAP14E8.03,vesicle-mediated transport,6: Other metabolism,NA
+SPAP27G11.03,translation,0: Translation/RiBi,NA
+SPAP27G11.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPAP27G11.09c,generation of precursor metabolites and energy;vitamin metabolic process,2: Precursors/Energy,Other
+SPAP27G11.13c,translation,0: Translation/RiBi,NA
+SPAP32A8.02,carbohydrate metabolic process,6: Other metabolism,NA
+SPAP7G5.02c,cellular amino acid metabolic process;nucleobase-containing small molecule metabolic process,3: Amino acids,NA
+SPAP7G5.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAP7G5.05,translation,0: Translation/RiBi,NA
+SPAP7G5.06,transmembrane transport,6: Other metabolism,NA
+SPAP8A3.03,transmembrane transport,6: Other metabolism,NA
+SPAPB17E12.03,transmembrane transport,6: Other metabolism,NA
+SPAPB17E12.13,translation,0: Translation/RiBi,NA
+SPAPB1A10.03,translation,0: Translation/RiBi,NA
+SPAPB1A10.06c,translation,0: Translation/RiBi,NA
+SPAPB1A10.07c,lipid metabolic process,4: Lipids,NA
+SPAPB1A10.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPAPB1A10.11c,cellular amino acid metabolic process,3: Amino acids,NA
+SPAPB1E7.05,lipid metabolic process,4: Lipids,NA
+SPAPB1E7.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPAPB1E7.12,translation,0: Translation/RiBi,NA
+SPAPB21F2.02,vesicle-mediated transport,6: Other metabolism,NA
+SPAPB21F2.03,translation,0: Translation/RiBi,NA
+SPAPB2B4.01c,lipid metabolic process,4: Lipids,NA
+SPAPB2B4.02,sulfur compound metabolic process,6: Other metabolism,NA
+SPAPB2B4.04c,transmembrane transport,6: Other metabolism,NA
+SPAPB2B4.05,transmembrane transport,6: Other metabolism,NA
+SPAPB2B4.06,lipid metabolic process,4: Lipids,NA
+SPAPB8E5.03,transmembrane transport,6: Other metabolism,NA
+SPAPB8E5.07c,translation,0: Translation/RiBi,NA
+SPAPJ696.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPAPJ696.02,vesicle-mediated transport,6: Other metabolism,NA
+SPAPJ698.02c,translation,0: Translation/RiBi,NA
+SPAPYUG7.05,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC106.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC106.05c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC106.11c,lipid metabolic process,4: Lipids,NA
+SPBC106.14c,translation,0: Translation/RiBi,NA
+SPBC106.15,lipid metabolic process,4: Lipids,NA
+SPBC106.17c,cellular amino acid metabolic process;lipid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC106.18,translation,0: Translation/RiBi,NA
+SPBC106.20,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1105.01,translation,0: Translation/RiBi,NA
+SPBC1105.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1105.05,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1105.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC115.01c,translation,0: Translation/RiBi,NA
+SPBC115.03,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC119.07,vesicle-mediated transport,6: Other metabolism,NA
+SPBC119.10,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC119.11c,translation,0: Translation/RiBi,NA
+SPBC119.12,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1198.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1198.05,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1198.06c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1198.07c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1198.08,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC1198.14c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC11B10.01,lipid metabolic process,4: Lipids,NA
+SPBC11B10.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC11B10.03,vesicle-mediated transport,6: Other metabolism,NA
+SPBC11C11.07,translation,0: Translation/RiBi,NA
+SPBC11C11.09c;SPAC3H5.12c,translation,0: Translation/RiBi,NA
+SPBC11G11.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC11G11.03,translation,0: Translation/RiBi,NA
+SPBC11G11.04,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1271.09,transmembrane transport,6: Other metabolism,NA
+SPBC1271.12,lipid metabolic process,4: Lipids,NA
+SPBC1271.14,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1289.01c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1289.03c,translation,0: Translation/RiBi,NA
+SPBC1289.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1289.05c,transmembrane transport,6: Other metabolism,NA
+SPBC1289.08,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1289.09,transmembrane transport,6: Other metabolism,NA
+SPBC1289.16c,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPBC12C2.03c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC12C2.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC12C2.06,translation,0: Translation/RiBi,NA
+SPBC12C2.07c,vitamin metabolic process,5: Vitamins,NA
+SPBC12C2.11,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC12C2.12c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC12C2.13c,transmembrane transport,6: Other metabolism,NA
+SPBC12D12.05c,transmembrane transport,6: Other metabolism,NA
+SPBC1347.04,lipid metabolic process,4: Lipids,NA
+SPBC1347.07,translation,0: Translation/RiBi,NA
+SPBC13A2.02;REV__SPAC323.05c,translation,0: Translation/RiBi,NA
+SPBC13A2.03,lipid metabolic process,4: Lipids,NA
+SPBC13A2.04c,transmembrane transport,6: Other metabolism,NA
+SPBC13E7.04,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC13E7.05,lipid metabolic process,4: Lipids,NA
+SPBC13E7.09,vesicle-mediated transport,6: Other metabolism,NA
+SPBC13G1.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC13G1.03c,transmembrane transport,6: Other metabolism,NA
+SPBC13G1.06c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC13G1.09,translation,0: Translation/RiBi,NA
+SPBC13G1.11,vesicle-mediated transport,6: Other metabolism,NA
+SPBC146.08c,translation,0: Translation/RiBi,NA
+SPBC146.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC146.14c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC14C8.02,transmembrane transport,6: Other metabolism,NA
+SPBC14C8.04,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC14C8.06,vesicle-mediated transport,6: Other metabolism,NA
+SPBC14C8.14c,translation,0: Translation/RiBi,NA
+SPBC14C8.15,lipid metabolic process,4: Lipids,NA
+SPBC14F5.02,vesicle-mediated transport,6: Other metabolism,NA
+SPBC14F5.04c,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC14F5.05c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC14F5.06,translation,0: Translation/RiBi,NA
+SPBC14F5.09c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC14F5.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC14F5.13c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1539.03c,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBC1539.05,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1539.06,lipid metabolic process,4: Lipids,NA
+SPBC1539.07c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC1539.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1539.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1539.10,translation,0: Translation/RiBi,NA
+SPBC15C4.03,vesicle-mediated transport,6: Other metabolism,NA
+SPBC15C4.04c,transmembrane transport,6: Other metabolism,NA
+SPBC15C4.05,translation,0: Translation/RiBi,NA
+SPBC15D4.04,lipid metabolic process,4: Lipids,NA
+SPBC15D4.09c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC1604.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC1604.04,transmembrane transport,6: Other metabolism,NA
+SPBC1604.05,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC1604.06c,translation,0: Translation/RiBi,NA
+SPBC1604.07,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC1604.09c,translation,0: Translation/RiBi,NA
+SPBC1604.11,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC1604.15,lipid metabolic process,4: Lipids,NA
+SPBC1604.18c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1652.02,transmembrane transport,6: Other metabolism,NA
+SPBC1677.03c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1683.01,transmembrane transport,6: Other metabolism,NA
+SPBC1683.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1683.03c,transmembrane transport,6: Other metabolism,NA
+SPBC1683.04,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1683.05,transmembrane transport,6: Other metabolism,NA
+SPBC1683.06c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1683.09c,transmembrane transport,6: Other metabolism,NA
+SPBC1683.10c,transmembrane transport,6: Other metabolism,NA
+SPBC1683.11c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1683.12,transmembrane transport,6: Other metabolism,NA
+SPBC1685.02c,translation,0: Translation/RiBi,NA
+SPBC1685.09,translation,0: Translation/RiBi,NA
+SPBC1685.10,translation,0: Translation/RiBi,NA
+SPBC16A3.05c,translation,0: Translation/RiBi,NA
+SPBC16A3.10,lipid metabolic process,4: Lipids,NA
+SPBC16A3.12c,lipid metabolic process,4: Lipids,NA
+SPBC16A3.17c,transmembrane transport,6: Other metabolism,NA
+SPBC16C6.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC16C6.05,translation,0: Translation/RiBi,NA
+SPBC16C6.06,vesicle-mediated transport,6: Other metabolism,NA
+SPBC16C6.08c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC16C6.11,translation,0: Translation/RiBi,NA
+SPBC16C6.12c,translation,0: Translation/RiBi,NA
+SPBC16C6.13c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC16D10.06,transmembrane transport,6: Other metabolism,NA
+SPBC16E9.05,lipid metabolic process,4: Lipids,NA
+SPBC16E9.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC16E9.10c,translation,0: Translation/RiBi,NA
+SPBC16E9.14c,transmembrane transport,6: Other metabolism,NA
+SPBC16E9.16c,lipid metabolic process,4: Lipids,NA
+SPBC16E9.18,lipid metabolic process,4: Lipids,NA
+SPBC16G5.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC16G5.08,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC16G5.10,translation,0: Translation/RiBi,NA
+SPBC16G5.14c,translation,0: Translation/RiBi,NA
+SPBC16H5.02,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC16H5.06,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC16H5.08c,translation,0: Translation/RiBi,NA
+SPBC16H5.10c,translation,0: Translation/RiBi,NA
+SPBC1703.03c,translation,0: Translation/RiBi,NA
+SPBC1703.05,translation,0: Translation/RiBi,NA
+SPBC1703.07,generation of precursor metabolites and energy;lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,2: Precursors/Energy,Other
+SPBC1703.10,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1703.12,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1703.13c,transmembrane transport,6: Other metabolism,NA
+SPBC1703.15c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1709.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1709.05,translation,0: Translation/RiBi,NA
+SPBC1709.07,lipid metabolic process,4: Lipids,NA
+SPBC1709.13c,translation,0: Translation/RiBi,NA
+SPBC1709.17,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1709.18,translation,0: Translation/RiBi,NA
+SPBC1709.19c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC1711.04,nucleobase-containing small molecule metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBC1711.06,translation,0: Translation/RiBi,NA
+SPBC1711.07,translation,0: Translation/RiBi,NA
+SPBC1711.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1711.13,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1711.16,translation,0: Translation/RiBi,NA
+SPBC1718.04,lipid metabolic process,4: Lipids,NA
+SPBC1718.05,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1734.01c,translation,0: Translation/RiBi,NA
+SPBC1734.03,vitamin metabolic process,5: Vitamins,NA
+SPBC1734.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1734.12c,lipid metabolic process,4: Lipids,NA
+SPBC1734.13,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC1773.05c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC1773.06c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC1773.10c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1773.14,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBC1773.15,transmembrane transport,6: Other metabolism,NA
+SPBC1773.17c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC1778.01c,translation,0: Translation/RiBi,NA
+SPBC1778.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC1778.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1778.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1778.09,vesicle-mediated transport,6: Other metabolism,NA
+SPBC17A3.01c,transmembrane transport,6: Other metabolism,NA
+SPBC17A3.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC17A3.07,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC17D1.03c,translation,0: Translation/RiBi,NA
+SPBC17D1.06,translation,0: Translation/RiBi,NA
+SPBC17D11.05,translation,0: Translation/RiBi,NA
+SPBC17G9.03c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC17G9.04c,translation,0: Translation/RiBi,NA
+SPBC17G9.06c,secondary metabolic process,6: Other metabolism,NA
+SPBC17G9.07,translation,0: Translation/RiBi,NA
+SPBC17G9.09,translation,0: Translation/RiBi,NA
+SPBC17G9.10;SPAC26A3.07c,translation,0: Translation/RiBi,NA
+SPBC17G9.11c,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC1815.01,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC1861.05,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC18A7.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC18E5.02c,lipid metabolic process,4: Lipids,NA
+SPBC18E5.04,translation,0: Translation/RiBi,NA
+SPBC18E5.06,translation,0: Translation/RiBi,NA
+SPBC18H10.02,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBC18H10.03;REV__SPBC15D4.03,translation,0: Translation/RiBi,NA
+SPBC18H10.04c,translation,0: Translation/RiBi,NA
+SPBC18H10.12c,translation,0: Translation/RiBi,NA
+SPBC18H10.13;SPAC3H5.05c,translation,0: Translation/RiBi,NA
+SPBC18H10.14;SPAC664.04c,translation,0: Translation/RiBi,NA
+SPBC18H10.16,transmembrane transport,6: Other metabolism,NA
+SPBC18H10.20c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC1921.01c,translation,0: Translation/RiBi,NA
+SPBC1921.03c,translation,0: Translation/RiBi,NA
+SPBC1921.06c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC19C2.07,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC19C2.09,lipid metabolic process,4: Lipids,NA
+SPBC19C2.10,vesicle-mediated transport,6: Other metabolism,NA
+SPBC19C2.15c,lipid metabolic process,4: Lipids,NA
+SPBC19C7.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC19C7.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC19C7.11,transmembrane transport,6: Other metabolism,NA
+SPBC19F5.02c,translation,0: Translation/RiBi,NA
+SPBC19F5.03,lipid metabolic process,4: Lipids,NA
+SPBC19F5.04,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC19F5.05c,translation,0: Translation/RiBi,NA
+SPBC19F8.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC19F8.08,translation,0: Translation/RiBi,NA
+SPBC19G7.02,vitamin metabolic process,5: Vitamins,NA
+SPBC19G7.03c;SPAC19B12.04,translation,0: Translation/RiBi,NA
+SPBC19G7.05c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC19G7.14c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC19G7.15,translation,0: Translation/RiBi,NA
+SPBC19G7.17,transmembrane transport,6: Other metabolism,NA
+SPBC19G7.19,transmembrane transport,6: Other metabolism,NA
+SPBC1A4.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC1A4.06c,lipid metabolic process,4: Lipids,NA
+SPBC1A4.07c,translation,0: Translation/RiBi,NA
+SPBC1A4.09,translation,0: Translation/RiBi,NA
+SPBC20F10.01,translation,0: Translation/RiBi,NA
+SPBC20F10.09,translation,0: Translation/RiBi,NA
+SPBC211.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC211.08c,translation,0: Translation/RiBi,NA
+SPBC215.01,vesicle-mediated transport,6: Other metabolism,NA
+SPBC215.05,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC215.06c,translation,0: Translation/RiBi,NA
+SPBC215.08c,cellular amino acid metabolic process;nitrogen cycle metabolic process;nucleobase-containing small molecule metabolic process,3: Amino acids,NA
+SPBC215.09c,lipid metabolic process,4: Lipids,NA
+SPBC215.14c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC215.15,vesicle-mediated transport,6: Other metabolism,NA
+SPBC21B10.04c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC21B10.07,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC21B10.09,transmembrane transport,6: Other metabolism,NA
+SPBC21B10.10,translation,0: Translation/RiBi,NA
+SPBC21C3.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC21C3.08c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC21C3.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC21C3.10c,vitamin metabolic process,5: Vitamins,NA
+SPBC21C3.13,translation,0: Translation/RiBi,NA
+SPBC21C3.17c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC21C3.19,translation,0: Translation/RiBi,NA
+SPBC21D10.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC21D10.11c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC21H7.03c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC21H7.04,translation,0: Translation/RiBi,NA
+SPBC21H7.07c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC23E6.04c,translation,0: Translation/RiBi,NA
+SPBC23E6.05,translation,0: Translation/RiBi,NA
+SPBC23E6.06c,generation of precursor metabolites and energy;vitamin metabolic process,2: Precursors/Energy,Other
+SPBC23E6.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC23E6.10c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC23G7.05,translation,0: Translation/RiBi,NA
+SPBC23G7.07c,translation,0: Translation/RiBi,NA
+SPBC23G7.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC23G7.13c,transmembrane transport,6: Other metabolism,NA
+SPBC23G7.15c,translation,0: Translation/RiBi,NA
+SPBC23G7.16,transmembrane transport,6: Other metabolism,NA
+SPBC244.02c,translation,0: Translation/RiBi,NA
+SPBC24C6.02,translation,0: Translation/RiBi,NA
+SPBC24C6.03,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC24C6.04,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC24C6.05,vesicle-mediated transport,6: Other metabolism,NA
+SPBC25B2.01,translation,0: Translation/RiBi,NA
+SPBC25B2.05,translation,0: Translation/RiBi,NA
+SPBC25B2.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC25D12.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC25H2.02,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC25H2.03,lipid metabolic process,4: Lipids,NA
+SPBC25H2.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC25H2.07,translation,0: Translation/RiBi,NA
+SPBC25H2.15,translation,0: Translation/RiBi,NA
+SPBC25H2.16c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC26H8.01,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBC26H8.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC26H8.03,lipid metabolic process,4: Lipids,NA
+SPBC26H8.06,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC26H8.08c,translation,0: Translation/RiBi,NA
+SPBC26H8.10,translation,0: Translation/RiBi,NA
+SPBC26H8.11c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBC27.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC27.06c,transmembrane transport,6: Other metabolism,NA
+SPBC27.08c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC27B12.03c,lipid metabolic process,4: Lipids,NA
+SPBC27B12.06,lipid metabolic process,4: Lipids,NA
+SPBC27B12.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC27B12.10c,transmembrane transport,6: Other metabolism,NA
+SPBC27B12.12c,transmembrane transport,6: Other metabolism,NA
+SPBC27B12.13,transmembrane transport,6: Other metabolism,NA
+SPBC28E12.05,translation,0: Translation/RiBi,NA
+SPBC29A10.01,lipid metabolic process,4: Lipids,NA
+SPBC29A10.08,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC29A10.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC29A10.13,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC29A10.16c,lipid metabolic process,4: Lipids,NA
+SPBC29A3.01,transmembrane transport,6: Other metabolism,NA
+SPBC29A3.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC29A3.04,translation,0: Translation/RiBi,NA
+SPBC29A3.06,translation,0: Translation/RiBi,NA
+SPBC29A3.09c,translation,0: Translation/RiBi,NA
+SPBC29A3.10c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC29A3.11c,transmembrane transport,6: Other metabolism,NA
+SPBC29A3.12,translation,0: Translation/RiBi,NA
+SPBC29A3.16,translation,0: Translation/RiBi,NA
+SPBC29A3.18,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC29B5.02c,transmembrane transport,6: Other metabolism,NA
+SPBC29B5.03c,translation,0: Translation/RiBi,NA
+SPBC29B5.04c,lipid metabolic process,4: Lipids,NA
+SPBC2A9.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2A9.06c,lipid metabolic process,4: Lipids,NA
+SPBC2A9.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2D10.04,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2D10.05,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC2D10.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC2D10.10c,translation,0: Translation/RiBi,NA
+SPBC2F12.04,translation,0: Translation/RiBi,NA
+SPBC2F12.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2F12.14c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC2F12.17,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC2G2.01c,transmembrane transport,6: Other metabolism,NA
+SPBC2G2.02,carbohydrate metabolic process;lipid metabolic process,4: Lipids,NA
+SPBC2G2.03c,transmembrane transport,6: Other metabolism,NA
+SPBC2G2.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC2G2.05,translation,0: Translation/RiBi,NA
+SPBC2G2.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2G2.08,nucleobase-containing small molecule metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBC2G2.11,lipid metabolic process,4: Lipids,NA
+SPBC2G2.12,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC2G2.13c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC2G2.16,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC2G5.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC2G5.05,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC2G5.06c,secondary metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPBC30B4.02c,translation,0: Translation/RiBi,NA
+SPBC30D10.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC30D10.13c,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPBC30D10.15,translation,0: Translation/RiBi,NA
+SPBC30D10.16,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC30D10.18c,translation,0: Translation/RiBi,NA
+SPBC31E1.02c,transmembrane transport,6: Other metabolism,NA
+SPBC31E1.04,vesicle-mediated transport,6: Other metabolism,NA
+SPBC31E1.06,translation,0: Translation/RiBi,NA
+SPBC31F10.02,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBC31F10.03,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC31F10.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC31F10.07,vesicle-mediated transport,6: Other metabolism,NA
+SPBC31F10.12,translation,0: Translation/RiBi,NA
+SPBC31F10.15c,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC31F10.16,vesicle-mediated transport,6: Other metabolism,NA
+SPBC32F12.01c,lipid metabolic process,4: Lipids,NA
+SPBC32F12.10,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process,2: Precursors/Energy,Other
+SPBC32F12.11,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC32F12.12c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC32H8.04c,translation,0: Translation/RiBi,NA
+SPBC32H8.12c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC336.02,translation,0: Translation/RiBi,NA
+SPBC336.10c,translation,0: Translation/RiBi,NA
+SPBC336.11,vesicle-mediated transport,6: Other metabolism,NA
+SPBC337.09,lipid metabolic process,4: Lipids,NA
+SPBC337.10c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC337.16,lipid metabolic process,4: Lipids,NA
+SPBC342.01c,lipid metabolic process,4: Lipids,NA
+SPBC342.02,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC354.02c,transmembrane transport,6: Other metabolism,NA
+SPBC354.07c,lipid metabolic process,4: Lipids,NA
+SPBC354.08c,transmembrane transport,6: Other metabolism,NA
+SPBC354.12,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBC354.15,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC359.03c,transmembrane transport,6: Other metabolism,NA
+SPBC359.05,transmembrane transport,6: Other metabolism,NA
+SPBC36.03c,transmembrane transport,6: Other metabolism,NA
+SPBC36.04,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC36.06c,lipid metabolic process,4: Lipids,NA
+SPBC36.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC365.02c,generation of precursor metabolites and energy;tetrapyrrole metabolic process,2: Precursors/Energy,Other
+SPBC365.03c,translation,0: Translation/RiBi,NA
+SPBC365.04c,translation,0: Translation/RiBi,NA
+SPBC365.11,vesicle-mediated transport,6: Other metabolism,NA
+SPBC365.13c,translation,0: Translation/RiBi,NA
+SPBC365.14c,carbohydrate metabolic process;nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC36B7.03,transmembrane transport,6: Other metabolism,NA
+SPBC36B7.07,vesicle-mediated transport,6: Other metabolism,NA
+SPBC3B8.01c,generation of precursor metabolites and energy;sulfur compound metabolic process,2: Precursors/Energy,Other
+SPBC3B8.03,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC3B8.04c,transmembrane transport,6: Other metabolism,NA
+SPBC3B8.07c,lipid metabolic process,4: Lipids,NA
+SPBC3B8.09,translation,0: Translation/RiBi,NA
+SPBC3B9.05,transmembrane transport,6: Other metabolism,NA
+SPBC3B9.10,vesicle-mediated transport,6: Other metabolism,NA
+SPBC3B9.13c,translation,0: Translation/RiBi,NA
+SPBC3B9.17,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC3B9.18c,transmembrane transport,6: Other metabolism,NA
+SPBC3B9.19,sulfur compound metabolic process;transmembrane transport,6: Other metabolism,NA
+SPBC3D6.05,lipid metabolic process,4: Lipids,NA
+SPBC3D6.06c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC3D6.12,translation,0: Translation/RiBi,NA
+SPBC3D6.15;SPAC694.05c,translation,0: Translation/RiBi,NA
+SPBC3E7.06c,transmembrane transport,6: Other metabolism,NA
+SPBC3E7.11c,transmembrane transport,6: Other metabolism,NA
+SPBC3E7.15c,lipid metabolic process,4: Lipids,NA
+SPBC3E7.16c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC3F6.02c,lipid metabolic process,4: Lipids,NA
+SPBC3F6.04c,translation,0: Translation/RiBi,NA
+SPBC3H7.01,vesicle-mediated transport,6: Other metabolism,NA
+SPBC3H7.02,transmembrane transport,6: Other metabolism,NA
+SPBC3H7.03c,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPBC3H7.05c,lipid metabolic process,4: Lipids,NA
+SPBC3H7.07c;REV__SPBC3H7.07c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC3H7.15,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4.02c,translation,0: Translation/RiBi,NA
+SPBC4.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4.06,lipid metabolic process,4: Lipids,NA
+SPBC405.01,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC405.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC409.10,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC409.13,vitamin metabolic process,5: Vitamins,NA
+SPBC409.15,translation,0: Translation/RiBi,NA
+SPBC409.18,lipid metabolic process,4: Lipids,NA
+SPBC409.20c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC409.21,transmembrane transport,6: Other metabolism,NA
+SPBC418.01c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC428.01c,translation,0: Translation/RiBi,NA
+SPBC428.02c,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC428.03c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBC428.04,lipid metabolic process,4: Lipids,NA
+SPBC428.05c,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBC428.11,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC428.14,lipid metabolic process,4: Lipids,NA
+SPBC428.19c,translation,0: Translation/RiBi,NA
+SPBC460.01c,transmembrane transport,6: Other metabolism,NA
+SPBC460.02c,translation,0: Translation/RiBi,NA
+SPBC460.04c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC4B4.01c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC4B4.04,translation,0: Translation/RiBi,NA
+SPBC4B4.08,transmembrane transport,6: Other metabolism,NA
+SPBC4C3.03,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC4C3.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4C3.06,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4C3.07,translation,0: Translation/RiBi,NA
+SPBC4F6.04,translation,0: Translation/RiBi,NA
+SPBC4F6.05c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4F6.07c,translation,0: Translation/RiBi,NA
+SPBC4F6.09,transmembrane transport,6: Other metabolism,NA
+SPBC4F6.10,vesicle-mediated transport,6: Other metabolism,NA
+SPBC4F6.13c,translation,0: Translation/RiBi,NA
+SPBC4F6.14,translation,0: Translation/RiBi,NA
+SPBC4F6.18c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC530.01,vesicle-mediated transport,6: Other metabolism,NA
+SPBC530.09c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC530.10c,transmembrane transport,6: Other metabolism,NA
+SPBC530.12c,lipid metabolic process,4: Lipids,NA
+SPBC543.06c,translation,0: Translation/RiBi,NA
+SPBC543.08,lipid metabolic process,4: Lipids,NA
+SPBC56F2.02,translation,0: Translation/RiBi,NA
+SPBC56F2.04,translation,0: Translation/RiBi,NA
+SPBC56F2.07c,translation,0: Translation/RiBi,NA
+SPBC56F2.09c,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBC56F2.10c,lipid metabolic process,4: Lipids,NA
+SPBC56F2.11,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC56F2.12,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC577.02,translation,0: Translation/RiBi,NA
+SPBC577.06c,lipid metabolic process,4: Lipids,NA
+SPBC577.13,carbohydrate metabolic process;lipid metabolic process,4: Lipids,NA
+SPBC582.08,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC582.09,lipid metabolic process,4: Lipids,NA
+SPBC609.04,transmembrane transport,6: Other metabolism,NA
+SPBC646.05c,lipid metabolic process,4: Lipids,NA
+SPBC646.07c,lipid metabolic process,4: Lipids,NA
+SPBC646.08c,lipid metabolic process,4: Lipids,NA
+SPBC646.09c,translation,0: Translation/RiBi,NA
+SPBC646.10c,translation,0: Translation/RiBi,NA
+SPBC646.15c,transmembrane transport,6: Other metabolism,NA
+SPBC649.02,translation,0: Translation/RiBi,NA
+SPBC651.01c,translation,0: Translation/RiBi,NA
+SPBC651.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC651.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC660.07,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC660.12c,sulfur compound metabolic process,6: Other metabolism,NA
+SPBC660.16,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process,2: Precursors/Energy,Other
+SPBC685.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC685.06,translation,0: Translation/RiBi,NA
+SPBC685.07c,translation,0: Translation/RiBi,NA
+SPBC691.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC691.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC691.05c,transmembrane transport,6: Other metabolism,NA
+SPBC713.03,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC713.04c,translation,0: Translation/RiBi,NA
+SPBC713.07c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPBC713.10,transmembrane transport,6: Other metabolism,NA
+SPBC713.12,lipid metabolic process,4: Lipids,NA
+SPBC725.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC725.03,vitamin metabolic process,5: Vitamins,NA
+SPBC725.04,lipid metabolic process,4: Lipids,NA
+SPBC725.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC725.07,transmembrane transport,6: Other metabolism,NA
+SPBC725.10,transmembrane transport,6: Other metabolism,NA
+SPBC725.14,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC725.15,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC776.03,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC776.04,vesicle-mediated transport,6: Other metabolism,NA
+SPBC776.07,translation,0: Translation/RiBi,NA
+SPBC776.08c,translation,0: Translation/RiBi,NA
+SPBC776.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC776.11,translation,0: Translation/RiBi,NA
+SPBC776.14,lipid metabolic process,4: Lipids,NA
+SPBC776.15c,cellular amino acid metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPBC776.17,translation,0: Translation/RiBi,NA
+SPBC800.04c,translation,0: Translation/RiBi,NA
+SPBC800.06,translation,0: Translation/RiBi,NA
+SPBC800.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC800.11,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBC83.01,vesicle-mediated transport,6: Other metabolism,NA
+SPBC83.02c,translation,0: Translation/RiBi,NA
+SPBC83.11,transmembrane transport,6: Other metabolism,NA
+SPBC83.13,transmembrane transport,6: Other metabolism,NA
+SPBC83.15,translation,0: Translation/RiBi,NA
+SPBC839.02,vesicle-mediated transport,6: Other metabolism,NA
+SPBC839.04;SPBC2F12.07c;SPAC1F7.13c,translation,0: Translation/RiBi,NA
+SPBC839.05c,translation,0: Translation/RiBi,NA
+SPBC839.06,transmembrane transport,6: Other metabolism,NA
+SPBC839.08c,lipid metabolic process,4: Lipids,NA
+SPBC839.11c,transmembrane transport,6: Other metabolism,NA
+SPBC839.13c,translation,0: Translation/RiBi,NA
+SPBC839.14c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC839.15c;SPAC23A1.10,translation,0: Translation/RiBi,NA
+SPBC839.16,nucleobase-containing small molecule metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBC887.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC887.02,transmembrane transport,6: Other metabolism,NA
+SPBC887.03c,translation,0: Translation/RiBi,NA
+SPBC887.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC887.12,vesicle-mediated transport,6: Other metabolism,NA
+SPBC887.13c,lipid metabolic process,4: Lipids,NA
+SPBC887.15c,lipid metabolic process,4: Lipids,NA
+SPBC887.17,transmembrane transport,6: Other metabolism,NA
+SPBC887.19,lipid metabolic process,4: Lipids,NA
+SPBC8D2.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC8D2.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPBC8D2.10c,translation,0: Translation/RiBi,NA
+SPBC8D2.14c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC8D2.15,lipid metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBC8D2.18c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPBC8D2.20c,vesicle-mediated transport,6: Other metabolism,NA
+SPBC8E4.01c,transmembrane transport,6: Other metabolism,NA
+SPBC8E4.03,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBC8E4.04,carbohydrate metabolic process,6: Other metabolism,NA
+SPBC902.05c,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPBC947.02,vesicle-mediated transport,6: Other metabolism,NA
+SPBC947.15c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBC9B6.03,vesicle-mediated transport,6: Other metabolism,NA
+SPBC9B6.05c,translation,0: Translation/RiBi,NA
+SPBC9B6.07,translation,0: Translation/RiBi,NA
+SPBC9B6.08,vesicle-mediated transport,6: Other metabolism,NA
+SPBC9B6.09c,transmembrane transport,6: Other metabolism,NA
+SPBC9B6.11c,translation,0: Translation/RiBi,NA
+SPBP16F5.05c,translation,0: Translation/RiBi,NA
+SPBP16F5.06,translation,0: Translation/RiBi,NA
+SPBP16F5.07,vesicle-mediated transport,6: Other metabolism,NA
+SPBP18G5.02,lipid metabolic process,4: Lipids,NA
+SPBP19A11.01,cellular amino acid metabolic process,3: Amino acids,NA
+SPBP22H7.02c,translation,0: Translation/RiBi,NA
+SPBP22H7.06,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBP22H7.08,translation,0: Translation/RiBi,NA
+SPBP23A10.06,transmembrane transport,6: Other metabolism,NA
+SPBP23A10.11c,carbohydrate metabolic process,6: Other metabolism,NA
+SPBP26C9.02c,cellular amino acid metabolic process;nitrogen cycle metabolic process,3: Amino acids,NA
+SPBP35G2.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPBP35G2.12,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBP4H10.05c,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBP4H10.08,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPBP4H10.11c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBP4H10.13;SPAC23C11.02c,translation,0: Translation/RiBi,NA
+SPBP4H10.15,cellular amino acid metabolic process;generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPBP8B7.03c,translation,0: Translation/RiBi,NA
+SPBP8B7.06,translation,0: Translation/RiBi,NA
+SPBP8B7.16c,translation,0: Translation/RiBi,NA
+SPBP8B7.17c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBP8B7.18c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPBP8B7.20c,translation,0: Translation/RiBi,NA
+SPBP8B7.22,vesicle-mediated transport,6: Other metabolism,NA
+SPBP8B7.29,cellular amino acid metabolic process;vitamin metabolic process,3: Amino acids,NA
+SPBPB10D8.02c,lipid metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPBPB21E7.01c,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPBPB21E7.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPBPB2B2.01,transmembrane transport,6: Other metabolism,NA
+SPBPB2B2.06c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBPB2B2.09c,vitamin metabolic process,5: Vitamins,NA
+SPBPB2B2.10c,carbohydrate metabolic process;nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBPB2B2.13,carbohydrate metabolic process;nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPBPJ4664.01,lipid metabolic process,4: Lipids,NA
+SPBPJ4664.04,vesicle-mediated transport,6: Other metabolism,NA
+SPBPJ4664.06,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1020.06c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC1020.07,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1183.01,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1183.03c,sulfur compound metabolic process;tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC1183.07,translation,0: Translation/RiBi,NA
+SPCC1183.08c,translation,0: Translation/RiBi,NA
+SPCC1183.09c,transmembrane transport,6: Other metabolism,NA
+SPCC1183.11,transmembrane transport,6: Other metabolism,NA
+SPCC11E10.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPCC11E10.02c,lipid metabolic process,4: Lipids,NA
+SPCC11E10.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC11E10.07c,translation,0: Translation/RiBi,NA
+SPCC1223.02,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPCC1223.03c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC1223.05c;SPAPB17E12.05,translation,0: Translation/RiBi,NA
+SPCC1223.07c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1223.08c,lipid metabolic process;vitamin metabolic process,4: Lipids,NA
+SPCC1223.09,nitrogen cycle metabolic process;nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1235.02,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPCC1235.04c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1235.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1235.11,transmembrane transport,6: Other metabolism,NA
+SPCC1235.13,transmembrane transport,6: Other metabolism,NA
+SPCC1235.14,transmembrane transport,6: Other metabolism,NA
+SPCC1235.15,lipid metabolic process,4: Lipids,NA
+SPCC1259.01c;SPBC16D10.11c,translation,0: Translation/RiBi,NA
+SPCC1259.05c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1259.09c,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPCC1259.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC126.08c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC126.09,transmembrane transport,6: Other metabolism,NA
+SPCC126.10,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPCC1281.01,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC1281.06c,lipid metabolic process,4: Lipids,NA
+SPCC132.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1322.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1322.11;SPAC3G9.03,translation,0: Translation/RiBi,NA
+SPCC1322.13,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1322.14c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC1393.03,translation,0: Translation/RiBi,NA
+SPCC1393.06c,translation,0: Translation/RiBi,NA
+SPCC1393.10,transmembrane transport,6: Other metabolism,NA
+SPCC13B11.01,generation of precursor metabolites and energy,2: Precursors/Energy,Fermentation: Adh1
+SPCC13B11.04c,cellular amino acid metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC1442.03,transmembrane transport,6: Other metabolism,NA
+SPCC1442.08c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1442.09,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1442.14c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1442.17c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1450.03,translation,0: Translation/RiBi,NA
+SPCC1450.04,translation,0: Translation/RiBi,NA
+SPCC1450.06c,sulfur compound metabolic process,6: Other metabolism,NA
+SPCC1450.07c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1450.13c,vitamin metabolic process,5: Vitamins,NA
+SPCC1450.15,lipid metabolic process,4: Lipids,NA
+SPCC1494.04c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1494.06c,translation,0: Translation/RiBi,NA
+SPCC14G10.01,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC14G10.02,translation,0: Translation/RiBi,NA
+SPCC162.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC162.07,vesicle-mediated transport,6: Other metabolism,NA
+SPCC162.09c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPCC162.11c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1620.01c,translation,0: Translation/RiBi,NA
+SPCC1620.05,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1620.06c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1620.08,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPCC1620.12c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1672.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1672.05c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1672.06c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC1672.07,translation,0: Translation/RiBi,NA
+SPCC1672.09,lipid metabolic process,4: Lipids,NA
+SPCC1672.11c,transmembrane transport,6: Other metabolism,NA
+SPCC1682.01,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1682.09c,transmembrane transport,6: Other metabolism,NA
+SPCC1682.11c,transmembrane transport,6: Other metabolism,NA
+SPCC1682.14,translation,0: Translation/RiBi,NA
+SPCC16A11.02,translation,0: Translation/RiBi,NA
+SPCC16A11.06c,lipid metabolic process,4: Lipids,NA
+SPCC16A11.07,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC16A11.09c,transmembrane transport,6: Other metabolism,NA
+SPCC16A11.10c,lipid metabolic process,4: Lipids,NA
+SPCC16C4.08c,translation,0: Translation/RiBi,NA
+SPCC16C4.10,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC1739.06c,sulfur compound metabolic process;tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC1739.07,translation,0: Translation/RiBi,NA
+SPCC1739.09c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1739.10,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1753.04,carbohydrate metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPCC1795.02c,transmembrane transport,6: Other metabolism,NA
+SPCC1795.03,transmembrane transport,6: Other metabolism,NA
+SPCC1795.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC1795.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC1795.11,translation,0: Translation/RiBi,NA
+SPCC18.05c,translation,0: Translation/RiBi,NA
+SPCC18.08,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC18.10,vitamin metabolic process,5: Vitamins,NA
+SPCC18.12c,translation,0: Translation/RiBi,NA
+SPCC18.14c,translation,0: Translation/RiBi,NA
+SPCC18.15,vesicle-mediated transport,6: Other metabolism,NA
+SPCC18.16c,nucleobase-containing small molecule metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPCC18.18c,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPCC1827.01c,translation,0: Translation/RiBi,NA
+SPCC1827.02c,lipid metabolic process,4: Lipids,NA
+SPCC1827.03c,lipid metabolic process;nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,4: Lipids,NA
+SPCC1827.05c,translation,0: Translation/RiBi,NA
+SPCC1827.06c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPCC1840.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC1840.05c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC1840.06,generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1840.07c,generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC1840.10,translation,0: Translation/RiBi,NA
+SPCC1840.11,translation,0: Translation/RiBi,NA
+SPCC188.06c,transmembrane transport,6: Other metabolism,NA
+SPCC18B5.01c,transmembrane transport,6: Other metabolism,NA
+SPCC18B5.05c,sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPCC18B5.06,translation,0: Translation/RiBi,NA
+SPCC18B5.08c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC1906.01,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC191.02c,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPCC191.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC191.07,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC1919.02,lipid metabolic process,4: Lipids,NA
+SPCC1919.09,translation,0: Translation/RiBi,NA
+SPCC23B6.01c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC23B6.02c,translation,0: Translation/RiBi,NA
+SPCC24B10.09,translation,0: Translation/RiBi,NA
+SPCC24B10.17,vesicle-mediated transport,6: Other metabolism,NA
+SPCC24B10.21,carbohydrate metabolic process;generation of precursor metabolites and energy;nucleobase-containing small molecule metabolic process;canonical glycolysis,1: Glycolysis,NA
+SPCC285.03,translation,0: Translation/RiBi,NA
+SPCC285.04,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC285.05,nucleobase-containing small molecule metabolic process;transmembrane transport,6: Other metabolism,NA
+SPCC285.08,vesicle-mediated transport,6: Other metabolism,NA
+SPCC285.09c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC285.12,translation,0: Translation/RiBi,NA
+SPCC285.14,vesicle-mediated transport,6: Other metabolism,NA
+SPCC285.15c;SPAC25G10.06,translation,0: Translation/RiBi,NA
+SPCC306.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC306.06c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC306.07c,translation,0: Translation/RiBi,NA
+SPCC306.08c,generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPCC31H12.04c;SPCC16C4.13c,translation,0: Translation/RiBi,NA
+SPCC31H12.07,vesicle-mediated transport,6: Other metabolism,NA
+SPCC320.05,transmembrane transport,6: Other metabolism,NA
+SPCC320.08,transmembrane transport,6: Other metabolism,NA
+SPCC320.09,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC320.11c,translation,0: Translation/RiBi,NA
+SPCC320.14,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC330.03c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC330.05c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC330.08,lipid metabolic process,4: Lipids,NA
+SPCC330.09,translation,0: Translation/RiBi,NA
+SPCC330.12c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC330.14c;SPAC6G9.09c,translation,0: Translation/RiBi,NA
+SPCC338.10c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC338.13,vesicle-mediated transport,6: Other metabolism,NA
+SPCC338.14,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC364.03,translation,0: Translation/RiBi,NA
+SPCC364.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC364.05,vesicle-mediated transport,6: Other metabolism,NA
+SPCC364.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC417.08,translation,0: Translation/RiBi,NA
+SPCC417.10,transmembrane transport,6: Other metabolism,NA
+SPCC417.11c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC4B3.01,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPCC4B3.02c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC4B3.04c,lipid metabolic process,4: Lipids,NA
+SPCC4B3.05c,tetrapyrrole metabolic process,6: Other metabolism,NA
+SPCC4B3.10c,carbohydrate metabolic process,6: Other metabolism,NA
+SPCC4B3.18,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process;vitamin metabolic process,5: Vitamins,NA
+SPCC4G3.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC4G3.16,vitamin metabolic process,5: Vitamins,NA
+SPCC4G3.17,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC4G3.18,translation,0: Translation/RiBi,NA
+SPCC548.06c,transmembrane transport,6: Other metabolism,NA
+SPCC550.06c,transmembrane transport,6: Other metabolism,NA
+SPCC550.15c,translation,0: Translation/RiBi,NA
+SPCC553.02,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC553.08c,translation,0: Translation/RiBi,NA
+SPCC569.05c,transmembrane transport,6: Other metabolism,NA
+SPCC569.07,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC569.08c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC576.01c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC576.05,translation,0: Translation/RiBi,NA
+SPCC576.07,vesicle-mediated transport,6: Other metabolism,NA
+SPCC576.08c,translation,0: Translation/RiBi,NA
+SPCC576.09,translation,0: Translation/RiBi,NA
+SPCC576.11,translation,0: Translation/RiBi,NA
+SPCC584.01c,sulfur compound metabolic process,6: Other metabolism,NA
+SPCC584.04;REV__SPCC584.04,translation,0: Translation/RiBi,NA
+SPCC584.05,vesicle-mediated transport,6: Other metabolism,NA
+SPCC584.15c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC594.06c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC5E4.05c,lipid metabolic process,4: Lipids,NA
+SPCC5E4.07,translation,0: Translation/RiBi,NA
+SPCC61.01c,transmembrane transport,6: Other metabolism,NA
+SPCC61.03,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC61.04c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC613.01,transmembrane transport,6: Other metabolism,NA
+SPCC613.05c,translation,0: Translation/RiBi,NA
+SPCC613.06,translation,0: Translation/RiBi,NA
+SPCC613.07,translation,0: Translation/RiBi,NA
+SPCC613.08,translation,0: Translation/RiBi,NA
+SPCC613.10,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC622.10c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC622.12c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC622.14,vesicle-mediated transport,6: Other metabolism,NA
+SPCC622.18,translation,0: Translation/RiBi,NA
+SPCC645.03c,sulfur compound metabolic process,6: Other metabolism,NA
+SPCC663.03,transmembrane transport,6: Other metabolism,NA
+SPCC663.04,translation,0: Translation/RiBi,NA
+SPCC70.03c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC70.06,translation,0: Translation/RiBi,NA
+SPCC70.07c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC736.03c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC736.06,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC736.07c,translation,0: Translation/RiBi,NA
+SPCC736.15,vesicle-mediated transport,6: Other metabolism,NA
+SPCC737.02c,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPCC737.06c,cellular amino acid metabolic process;sulfur compound metabolic process,3: Amino acids,NA
+SPCC737.08,translation,0: Translation/RiBi,NA
+SPCC737.09c,transmembrane transport,6: Other metabolism,NA
+SPCC74.01,vesicle-mediated transport,6: Other metabolism,NA
+SPCC74.05,translation,0: Translation/RiBi,NA
+SPCC757.05c,sulfur compound metabolic process,6: Other metabolism,NA
+SPCC757.08,translation,0: Translation/RiBi,NA
+SPCC757.13,transmembrane transport,6: Other metabolism,NA
+SPCC777.04,transmembrane transport,6: Other metabolism,NA
+SPCC777.09c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC777.13,vesicle-mediated transport,6: Other metabolism,NA
+SPCC790.02,vesicle-mediated transport,6: Other metabolism,NA
+SPCC794.01c,carbohydrate metabolic process;generation of precursor metabolites and energy,2: Precursors/Energy,Other
+SPCC794.03,transmembrane transport,6: Other metabolism,NA
+SPCC794.04c,transmembrane transport,6: Other metabolism,NA
+SPCC794.06,transmembrane transport,6: Other metabolism,NA
+SPCC794.07,nucleobase-containing small molecule metabolic process;sulfur compound metabolic process,6: Other metabolism,NA
+SPCC794.09c,translation,0: Translation/RiBi,NA
+SPCC794.10,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC794.11c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC794.12c;SPAC750.08c,cellular amino acid metabolic process;generation of precursor metabolites and energy;tricarboxylic acid cycle,2: Precursors/Energy,TCA cycle
+SPCC825.01,translation,0: Translation/RiBi,NA
+SPCC825.03c,vesicle-mediated transport,6: Other metabolism,NA
+SPCC830.03,translation,0: Translation/RiBi,NA
+SPCC830.07c,translation,0: Translation/RiBi,NA
+SPCC830.10,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC830.11c,translation,0: Translation/RiBi,NA
+SPCC962.04,translation,0: Translation/RiBi,NA
+SPCC965.03,transmembrane transport,6: Other metabolism,NA
+SPCC965.06,transmembrane transport,6: Other metabolism,NA
+SPCC965.08c,cellular amino acid metabolic process,3: Amino acids,NA
+SPCC965.11c,transmembrane transport,6: Other metabolism,NA
+SPCC965.13,transmembrane transport,6: Other metabolism,NA
+SPCC965.14c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCC970.05;SPBC405.07,translation,0: Translation/RiBi,NA
+SPCC970.06,vesicle-mediated transport,6: Other metabolism,NA
+SPCC970.09,vesicle-mediated transport,6: Other metabolism,NA
+SPCP1E11.05c,lipid metabolic process,4: Lipids,NA
+SPCP1E11.06,vesicle-mediated transport,6: Other metabolism,NA
+SPCP1E11.08,translation,0: Translation/RiBi,NA
+SPCP1E11.09c,translation,0: Translation/RiBi,NA
+SPCP1E11.11,translation,0: Translation/RiBi,NA
+SPCP31B10.04,vesicle-mediated transport,6: Other metabolism,NA
+SPCP31B10.07;SPAC513.01c,translation,0: Translation/RiBi,NA
+SPCP31B10.08c,translation,0: Translation/RiBi,NA
+SPCPB16A4.03c,nucleobase-containing small molecule metabolic process,6: Other metabolism,NA
+SPCPB16A4.05c,nitrogen cycle metabolic process,6: Other metabolism,NA
+SPCPB1C11.01,transmembrane transport,6: Other metabolism,NA
+SPCPB1C11.02,transmembrane transport,6: Other metabolism,NA
+SPCPB1C11.03,transmembrane transport,6: Other metabolism,NA
+SPCPJ732.01,vesicle-mediated transport,6: Other metabolism,NA
+SPCPJ732.02c,carbohydrate metabolic process,6: Other metabolism,NA
+SPMIT.01,generation of precursor metabolites and energy;transmembrane transport;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPMIT.05,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS
+SPMIT.11,generation of precursor metabolites and energy;oxidative phosphorylation,2: Precursors/Energy,OXPHOS

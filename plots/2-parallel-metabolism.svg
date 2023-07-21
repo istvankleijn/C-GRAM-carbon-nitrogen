@@ -316,21 +316,21 @@
 <text transform='translate(208.18,6.48) rotate(-90)' style='font-size: 7.00px; font-family: "Arial";' textLength='4.78px' lengthAdjust='spacingAndGlyphs'>−</text>
 <text transform='translate(208.18,1.70) rotate(-90)' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='3.50px' lengthAdjust='spacingAndGlyphs'>1</text>
 <text transform='translate(212.45,-1.80) rotate(-90)' style='font-size: 12.50px; font-family: "Arial";' textLength='3.77px' lengthAdjust='spacingAndGlyphs'>)</text>
-<rect x='215.61' y='106.88' width='132.02' height='29.87' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='220.59' y='119.82' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='42.18px' lengthAdjust='spacingAndGlyphs'>Parameter</text>
-<text x='220.59' y='130.62' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='24.69px' lengthAdjust='spacingAndGlyphs'>varied</text>
-<rect x='267.76' y='111.86' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='271.74' cy='116.46' r='1.42' style='stroke-width: 0.71; stroke: #56B4E9; fill: #56B4E9;' />
-<rect x='267.76' y='121.05' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='271.74' cy='125.65' r='1.42' style='stroke-width: 0.71; stroke: #CC79A7; fill: #CC79A7;' />
-<text x='280.71' y='118.27' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='46.24px' lengthAdjust='spacingAndGlyphs'>carbon uptake</text>
-<text x='326.95' y='118.27' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='329.13' y='118.27' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>k</text>
-<text x='333.62' y='119.53' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.96px' lengthAdjust='spacingAndGlyphs'>C</text>
-<text x='280.71' y='127.46' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='50.78px' lengthAdjust='spacingAndGlyphs'>nitrogen uptake</text>
-<text x='331.49' y='127.46' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='333.68' y='127.46' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>k</text>
-<text x='338.16' y='128.72' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='4.37px' lengthAdjust='spacingAndGlyphs'>N</text>
+<rect x='203.16' y='106.88' width='132.02' height='29.87' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='208.14' y='119.82' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='42.18px' lengthAdjust='spacingAndGlyphs'>Parameter</text>
+<text x='208.14' y='130.62' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='24.69px' lengthAdjust='spacingAndGlyphs'>varied</text>
+<rect x='255.30' y='111.86' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='259.28' cy='116.46' r='1.42' style='stroke-width: 0.71; stroke: #56B4E9; fill: #56B4E9;' />
+<rect x='255.30' y='121.05' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='259.28' cy='125.65' r='1.42' style='stroke-width: 0.71; stroke: #CC79A7; fill: #CC79A7;' />
+<text x='268.25' y='118.27' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='46.24px' lengthAdjust='spacingAndGlyphs'>carbon uptake</text>
+<text x='314.49' y='118.27' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='316.68' y='118.27' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>k</text>
+<text x='321.16' y='119.53' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.96px' lengthAdjust='spacingAndGlyphs'>C</text>
+<text x='268.25' y='127.46' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='50.78px' lengthAdjust='spacingAndGlyphs'>nitrogen uptake</text>
+<text x='319.03' y='127.46' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='321.22' y='127.46' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.66px' lengthAdjust='spacingAndGlyphs'>k</text>
+<text x='325.70' y='128.72' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='4.37px' lengthAdjust='spacingAndGlyphs'>N</text>
 <text x='201.92' y='10.23' style='font-size: 10.00px; font-weight: bold; font-family: "Gill Sans MT";' textLength='6.98px' lengthAdjust='spacingAndGlyphs'>B</text>
 </g>
 <defs>
@@ -1290,34 +1290,34 @@
 <text x='132.31' y='326.26' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='3.50px' lengthAdjust='spacingAndGlyphs'>1</text>
 <text x='135.81' y='330.53' style='font-size: 12.50px; font-family: "Arial";' textLength='3.77px' lengthAdjust='spacingAndGlyphs'>)</text>
 <text transform='translate(11.80,235.25) rotate(-90)' text-anchor='middle' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='75.20px' lengthAdjust='spacingAndGlyphs'>Allocation fraction</text>
-<rect x='18.17' y='345.14' width='159.58' height='46.73' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='23.15' y='371.91' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='29.64px' lengthAdjust='spacingAndGlyphs'>Protein</text>
-<rect x='57.77' y='350.12' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='61.75' cy='354.72' r='1.42' style='stroke-width: 0.71; stroke: #009E73; fill: #009E73;' />
-<rect x='57.77' y='359.31' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='61.75' cy='363.91' r='1.42' style='stroke-width: 0.71; stroke: #F0E442; fill: #F0E442;' />
-<rect x='57.77' y='368.50' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='61.75' cy='373.10' r='1.42' style='stroke-width: 0.71; stroke: #CC79A7; fill: #CC79A7;' />
-<rect x='57.77' y='377.70' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='61.75' cy='382.29' r='1.42' style='stroke-width: 0.71; stroke: #56B4E9; fill: #56B4E9;' />
-<text x='70.72' y='356.57' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='90.55px' lengthAdjust='spacingAndGlyphs'>respirofermentative enzyme</text>
-<text x='161.27' y='356.57' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='163.46' y='356.57' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
-<text x='167.47' y='357.82' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.73px' lengthAdjust='spacingAndGlyphs'>A</text>
-<text x='171.20' y='357.82' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='1.40px' lengthAdjust='spacingAndGlyphs'>f</text>
-<text x='70.72' y='365.72' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='85.40px' lengthAdjust='spacingAndGlyphs'>purely respiratory enzyme</text>
-<text x='156.12' y='365.72' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='158.31' y='365.72' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
-<text x='162.31' y='366.98' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.73px' lengthAdjust='spacingAndGlyphs'>A</text>
-<text x='166.04' y='366.98' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='2.22px' lengthAdjust='spacingAndGlyphs'>r</text>
-<text x='70.72' y='374.91' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='50.78px' lengthAdjust='spacingAndGlyphs'>nitrogen uptake</text>
-<text x='121.50' y='374.91' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='123.69' y='374.91' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
-<text x='127.69' y='376.17' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='4.37px' lengthAdjust='spacingAndGlyphs'>N</text>
-<text x='70.72' y='384.11' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='46.24px' lengthAdjust='spacingAndGlyphs'>carbon uptake</text>
-<text x='116.96' y='384.11' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='119.15' y='384.11' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
-<text x='123.15' y='385.36' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.96px' lengthAdjust='spacingAndGlyphs'>C</text>
+<rect x='5.52' y='345.14' width='159.58' height='46.73' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='10.50' y='371.91' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='29.64px' lengthAdjust='spacingAndGlyphs'>Protein</text>
+<rect x='45.12' y='350.12' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='49.10' cy='354.72' r='1.42' style='stroke-width: 0.71; stroke: #009E73; fill: #009E73;' />
+<rect x='45.12' y='359.31' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='49.10' cy='363.91' r='1.42' style='stroke-width: 0.71; stroke: #F0E442; fill: #F0E442;' />
+<rect x='45.12' y='368.50' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='49.10' cy='373.10' r='1.42' style='stroke-width: 0.71; stroke: #CC79A7; fill: #CC79A7;' />
+<rect x='45.12' y='377.70' width='7.97' height='9.19' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='49.10' cy='382.29' r='1.42' style='stroke-width: 0.71; stroke: #56B4E9; fill: #56B4E9;' />
+<text x='58.07' y='356.57' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='90.55px' lengthAdjust='spacingAndGlyphs'>respirofermentative enzyme</text>
+<text x='148.62' y='356.57' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='150.81' y='356.57' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
+<text x='154.82' y='357.82' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.73px' lengthAdjust='spacingAndGlyphs'>A</text>
+<text x='158.55' y='357.82' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='1.40px' lengthAdjust='spacingAndGlyphs'>f</text>
+<text x='58.07' y='365.72' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='85.40px' lengthAdjust='spacingAndGlyphs'>purely respiratory enzyme</text>
+<text x='143.47' y='365.72' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='145.66' y='365.72' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
+<text x='149.66' y='366.98' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.73px' lengthAdjust='spacingAndGlyphs'>A</text>
+<text x='153.39' y='366.98' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='2.22px' lengthAdjust='spacingAndGlyphs'>r</text>
+<text x='58.07' y='374.91' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='50.78px' lengthAdjust='spacingAndGlyphs'>nitrogen uptake</text>
+<text x='108.85' y='374.91' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='111.04' y='374.91' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
+<text x='115.04' y='376.17' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='4.37px' lengthAdjust='spacingAndGlyphs'>N</text>
+<text x='58.07' y='384.11' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='46.24px' lengthAdjust='spacingAndGlyphs'>carbon uptake</text>
+<text x='104.31' y='384.11' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='106.50' y='384.11' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='4.00px' lengthAdjust='spacingAndGlyphs'>E</text>
+<text x='110.50' y='385.36' style='font-size: 5.60px; font-family: "Gill Sans MT";' textLength='3.96px' lengthAdjust='spacingAndGlyphs'>C</text>
 <text x='3.86' y='151.96' style='font-size: 10.00px; font-weight: bold; font-family: "Gill Sans MT";' textLength='7.71px' lengthAdjust='spacingAndGlyphs'>C</text>
 </g>
 <defs>
@@ -2270,26 +2270,26 @@
 <text x='302.39' y='326.26' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='3.50px' lengthAdjust='spacingAndGlyphs'>1</text>
 <text x='305.89' y='330.53' style='font-size: 12.50px; font-family: "Arial";' textLength='3.77px' lengthAdjust='spacingAndGlyphs'>)</text>
 <text transform='translate(181.88,235.25) rotate(-90)' text-anchor='middle' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='53.70px' lengthAdjust='spacingAndGlyphs'>Mass fraction</text>
-<rect x='212.24' y='347.18' width='111.60' height='42.64' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='217.22' y='371.91' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='43.23px' lengthAdjust='spacingAndGlyphs'>Metabolite</text>
-<rect x='265.42' y='352.16' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='269.41' cy='356.15' r='1.42' style='stroke-width: 0.71; stroke: #555555; fill: #555555;' />
-<rect x='265.42' y='360.13' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='269.41' cy='364.12' r='1.42' style='stroke-width: 0.71; stroke: #0072B2; fill: #0072B2;' />
-<rect x='265.42' y='368.10' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='269.41' cy='372.09' r='1.42' style='stroke-width: 0.71; stroke: #D55E00; fill: #D55E00;' />
-<rect x='265.42' y='376.07' width='7.97' height='8.77' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<circle cx='269.41' cy='380.46' r='1.42' style='stroke-width: 0.71; stroke: #630A75; fill: #630A75;' />
-<text x='278.37' y='358.88' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='14.91px' lengthAdjust='spacingAndGlyphs'>total</text>
-<text x='278.37' y='366.79' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='22.51px' lengthAdjust='spacingAndGlyphs'>carbon</text>
-<text x='300.88' y='366.79' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='303.07' y='366.79' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.07px' lengthAdjust='spacingAndGlyphs'>c</text>
-<text x='278.37' y='374.78' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='34.73px' lengthAdjust='spacingAndGlyphs'>amino acid</text>
-<text x='313.10' y='374.78' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='315.29' y='374.78' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.75px' lengthAdjust='spacingAndGlyphs'>a</text>
-<text x='278.37' y='382.10' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='27.05px' lengthAdjust='spacingAndGlyphs'>nitrogen</text>
-<text x='305.42' y='382.10' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
-<text x='307.61' y='382.10' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.75px' lengthAdjust='spacingAndGlyphs'>n</text>
+<rect x='223.58' y='345.14' width='111.60' height='42.64' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='228.56' y='369.87' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='43.23px' lengthAdjust='spacingAndGlyphs'>Metabolite</text>
+<rect x='276.76' y='350.12' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='280.75' cy='354.10' r='1.42' style='stroke-width: 0.71; stroke: #555555; fill: #555555;' />
+<rect x='276.76' y='358.09' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='280.75' cy='362.07' r='1.42' style='stroke-width: 0.71; stroke: #0072B2; fill: #0072B2;' />
+<rect x='276.76' y='366.06' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='280.75' cy='370.05' r='1.42' style='stroke-width: 0.71; stroke: #D55E00; fill: #D55E00;' />
+<rect x='276.76' y='374.03' width='7.97' height='8.77' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<circle cx='280.75' cy='378.41' r='1.42' style='stroke-width: 0.71; stroke: #630A75; fill: #630A75;' />
+<text x='289.71' y='356.83' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='14.91px' lengthAdjust='spacingAndGlyphs'>total</text>
+<text x='289.71' y='364.75' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='22.51px' lengthAdjust='spacingAndGlyphs'>carbon</text>
+<text x='312.22' y='364.75' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='314.41' y='364.75' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.07px' lengthAdjust='spacingAndGlyphs'>c</text>
+<text x='289.71' y='372.74' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='34.73px' lengthAdjust='spacingAndGlyphs'>amino acid</text>
+<text x='324.45' y='372.74' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='326.64' y='372.74' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.75px' lengthAdjust='spacingAndGlyphs'>a</text>
+<text x='289.71' y='380.05' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='27.05px' lengthAdjust='spacingAndGlyphs'>nitrogen</text>
+<text x='316.77' y='380.05' style='font-size: 8.00px; font-family: "Arial";' textLength='2.19px' lengthAdjust='spacingAndGlyphs'> </text>
+<text x='318.95' y='380.05' style='font-size: 8.00px; font-style: italic; font-family: "Gill Sans MT";' textLength='3.75px' lengthAdjust='spacingAndGlyphs'>n</text>
 <text x='174.09' y='151.96' style='font-size: 10.00px; font-weight: bold; font-family: "Gill Sans MT";' textLength='8.02px' lengthAdjust='spacingAndGlyphs'>D</text>
 </g>
 </svg>

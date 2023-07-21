@@ -144,23 +144,23 @@
 <text transform='translate(13.47,63.00) rotate(-90)' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='4.59px' lengthAdjust='spacingAndGlyphs'>K</text>
 <text transform='translate(13.47,58.41) rotate(-90)' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='2.77px' lengthAdjust='spacingAndGlyphs'>r</text>
 <text transform='translate(13.47,55.64) rotate(-90)' style='font-size: 7.00px; font-family: "Gill Sans MT";' textLength='3.36px' lengthAdjust='spacingAndGlyphs'>e</text>
-<rect x='38.57' y='228.67' width='116.46' height='49.81' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<text x='43.55' y='256.99' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='62.12px' lengthAdjust='spacingAndGlyphs'>Zero allocation</text>
-<rect x='110.65' y='233.65' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='110.65' y='233.65' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #555555;' />
-<rect x='110.65' y='241.62' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='110.65' y='241.62' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #E69F00;' />
-<rect x='110.65' y='249.59' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='110.65' y='249.59' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #D55E00;' />
-<rect x='110.65' y='257.56' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='110.65' y='257.56' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #CC79A7;' />
-<rect x='110.65' y='265.53' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
-<rect x='110.65' y='265.53' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #0072B2;' />
-<text x='123.60' y='240.37' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='5.67px' lengthAdjust='spacingAndGlyphs'>C</text>
-<text x='123.60' y='248.34' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='20.22px' lengthAdjust='spacingAndGlyphs'>C,Kex</text>
-<text x='123.60' y='256.31' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='12.60px' lengthAdjust='spacingAndGlyphs'>Kex</text>
-<text x='123.60' y='264.28' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='26.45px' lengthAdjust='spacingAndGlyphs'>Kex,Kre</text>
-<text x='123.60' y='272.25' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='12.09px' lengthAdjust='spacingAndGlyphs'>Kre</text>
+<rect x='43.92' y='228.67' width='116.46' height='49.81' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<text x='48.90' y='256.99' style='font-size: 10.00px; font-family: "Gill Sans MT";' textLength='62.12px' lengthAdjust='spacingAndGlyphs'>Zero allocation</text>
+<rect x='116.00' y='233.65' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='116.00' y='233.65' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #555555;' />
+<rect x='116.00' y='241.62' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='116.00' y='241.62' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #E69F00;' />
+<rect x='116.00' y='249.59' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='116.00' y='249.59' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #D55E00;' />
+<rect x='116.00' y='257.56' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='116.00' y='257.56' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #CC79A7;' />
+<rect x='116.00' y='265.53' width='7.97' height='7.97' style='stroke-width: 1.07; stroke: none; fill: #FFFFFF;' />
+<rect x='116.00' y='265.53' width='7.97' height='7.97' style='stroke-width: 0.75; stroke: none; fill: #0072B2;' />
+<text x='128.95' y='240.37' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='5.67px' lengthAdjust='spacingAndGlyphs'>C</text>
+<text x='128.95' y='248.34' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='20.22px' lengthAdjust='spacingAndGlyphs'>C,Kex</text>
+<text x='128.95' y='256.31' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='12.60px' lengthAdjust='spacingAndGlyphs'>Kex</text>
+<text x='128.95' y='264.28' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='26.45px' lengthAdjust='spacingAndGlyphs'>Kex,Kre</text>
+<text x='128.95' y='272.25' style='font-size: 8.00px; font-family: "Gill Sans MT";' textLength='12.09px' lengthAdjust='spacingAndGlyphs'>Kre</text>
 <text x='3.12' y='8.16' style='font-size: 8.00px; font-weight: bold; font-family: "Gill Sans MT";' textLength='6.24px' lengthAdjust='spacingAndGlyphs'>A</text>
 </g>
 <defs>

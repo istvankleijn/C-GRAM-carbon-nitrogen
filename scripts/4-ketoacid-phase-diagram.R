@@ -153,8 +153,8 @@ ggsave(
   "4-ketoacid-phase-diagram.svg",
   fig_4,
   path = plotdir,
-  width = 18,
-  height = 12,
+  width = 17.5,
+  height = 10,
   units = "cm"
 )
 ggsave(
@@ -162,7 +162,7 @@ ggsave(
   fig_4,
   device = cairo_pdf,
   path = plotdir,
-  width = 15,
-  height = 10,
+  width = 17.5,
+  height = 12.5,
   units = "cm"
 )

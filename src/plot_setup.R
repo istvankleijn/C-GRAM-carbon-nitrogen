@@ -96,23 +96,18 @@ palette_zeros <- c(
   "Kex,Kre" = "#CC79A7",
   "C,Kex" = "#E69F00"
 )
-palette_experiment_long <- c(
-  "sigma-Ydiv-kC" = "#0072B2",
-  "sigma-Ydiv-kN" = "#630a75",
-  "width-Ydiv-kC" = "#56B4E9",
-  "width-Ydiv-kN" = "#CC79A7"
+palette_fermresp <- c(
+  "fermentation" = "#555555", # grey
+  "respiration"  = "#E69F00" # orange
+)
+palette_ketoacid <- c(
+  "none"      = "#555555", # grey
+  "excretion" = "#0072B2", # blue
+  "recycling" = "#D55E00", # vermillion
+  "mixed"     = "#009E73" # green
 )
 
-shapes_experiment_long <- c(
-  "sigma-Ydiv-kC" = 0,
-  "sigma-Ydiv-kN" = 15,
-  "width-Ydiv-kC" = 1,
-  "width-Ydiv-kN" = 16
-)
-
-labels_experiment_long <- c(
-  "sigma-Ydiv-kC" = "C",
-  "sigma-Ydiv-kN" = "N",
-  "width-Ydiv-kC" = "C",
-  "width-Ydiv-kN" = "N"
+shapes_fermresp <- c(
+  "fermentation" = 1, # circle
+  "respiration" = 0 # square
 )

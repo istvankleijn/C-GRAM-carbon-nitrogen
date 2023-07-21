@@ -89,7 +89,13 @@ palette_experiment <- c(
   "k_Kre=10.0_k_N=20.0" = "#D55E00",
   "k_Kre=5.0_k_N=20.0" = "#0072B2"
 )
-
+palette_zeros <- c(
+  "C" = "#555555",
+  "Kex" = "#D55E00",
+  "Kre" = "#0072B2",
+  "Kex,Kre" = "#CC79A7",
+  "C,Kex" = "#E69F00"
+)
 palette_experiment_long <- c(
   "sigma-Ydiv-kC" = "#0072B2",
   "sigma-Ydiv-kN" = "#630a75",

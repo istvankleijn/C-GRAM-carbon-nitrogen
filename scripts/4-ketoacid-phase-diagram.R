@@ -11,7 +11,17 @@ fig_4A <- df %>%
     breaks = c(0.5, 1, 2, 3, 5, 10, 20, 30, 50),
     labels = c("0.5", "1", "2", "3", "5", "10", "20", "30", "50")
   ) +
-  scale_fill_manual(values = palette_zeros) +
+  scale_fill_manual(
+    values = palette_zeros,
+    breaks = c("Kex", "C,Kex", "C", "Kex,Kre", "Kre"),
+    labels = c(
+      "recycling + uptake",
+      "recycling",
+      "recycling + excretion",
+      "uptake",
+      "excretion + uptake"
+    )
+  ) +
   coord_cartesian(expand = FALSE) +
   annotation_logticks(
     sides = "lr",
@@ -23,7 +33,7 @@ fig_4A <- df %>%
   labs(
     x = "Nutrient C-to-N ratio",
     y = expression("Recycling efficiency" ~ k[Kre]),
-    fill = "Zero allocation"
+    fill = "Carbon\nmetabolism"
   ) +
   guides(
     fill = guide_legend(title.position = "left")
@@ -32,6 +42,7 @@ fig_4A <- df %>%
     legend.position = "bottom",
     legend.direction = "vertical"
   )
+fig_4A
 
 fig_4B <- df %>%
   filter(
@@ -44,7 +55,17 @@ fig_4B <- df %>%
     breaks = c(2, 3, 5, 10, 20, 30, 50, 100, 200),
     labels = c("2", "3", "5", "10", "20", "30", "50", "100", "200")
   ) +
-  scale_fill_manual(values = palette_zeros) +
+  scale_fill_manual(
+    values = palette_zeros,
+    breaks = c("Kex", "C,Kex", "C", "Kex,Kre", "Kre"),
+    labels = c(
+      "recycling + uptake",
+      "recycling",
+      "recycling + excretion",
+      "uptake",
+      "excretion + uptake"
+    )
+  ) +
   coord_cartesian(expand = FALSE) +
   annotation_logticks(
     sides = "lr",
@@ -69,7 +90,17 @@ fig_4D <- df %>%
     breaks = c(2, 3, 5, 10, 20, 30, 50, 100, 200),
     labels = c("2", "3", "5", "10", "20", "30", "50", "100", "200")
   ) +
-  scale_fill_manual(values = palette_zeros) +
+  scale_fill_manual(
+    values = palette_zeros,
+    breaks = c("Kex", "C,Kex", "C", "Kex,Kre", "Kre"),
+    labels = c(
+      "recycling + uptake",
+      "recycling",
+      "recycling + excretion",
+      "uptake",
+      "excretion + uptake"
+    )
+  ) +
   coord_cartesian(expand = FALSE) +
   annotation_logticks(
     sides = "lr",
@@ -94,7 +125,17 @@ fig_4C <- df %>%
     breaks = c(0.5, 1, 2, 3, 5, 10, 20, 30, 50),
     labels = c("0.5", "1", "2", "3", "5", "10", "20", "30", "50")
   ) +
-  scale_fill_manual(values = palette_zeros) +
+  scale_fill_manual(
+    values = palette_zeros,
+    breaks = c("Kex", "C,Kex", "C", "Kex,Kre", "Kre"),
+    labels = c(
+      "recycling + uptake",
+      "recycling",
+      "recycling + excretion",
+      "uptake",
+      "excretion + uptake"
+    )
+  ) +
   coord_cartesian(expand = FALSE) +
   annotation_logticks(
     sides = "lr",
@@ -119,7 +160,17 @@ fig_4E <- df %>%
     breaks = c(0.5, 1, 2, 3, 5, 10, 20, 30, 50),
     labels = c("0.5", "1", "2", "3", "5", "10", "20", "30", "50")
   ) +
-  scale_fill_manual(values = palette_zeros) +
+  scale_fill_manual(
+    values = palette_zeros,
+    breaks = c("Kex", "C,Kex", "C", "Kex,Kre", "Kre"),
+    labels = c(
+      "recycling + uptake",
+      "recycling",
+      "recycling + excretion",
+      "uptake",
+      "excretion + uptake"
+    )
+  ) +
   coord_cartesian(expand = FALSE) +
   annotation_logticks(
     sides = "lr",

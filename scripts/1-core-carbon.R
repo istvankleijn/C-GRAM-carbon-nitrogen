@@ -19,9 +19,14 @@ fig_1B <- df %>%
     x = expression("Carbon uptake rate" ~ italic(k)[C] ~ (h^{
       -1
     })),
-    y = expression("Growth rate" ~ italic(mu) ~ (h^{
+    y = expression("Growth rate" ~ italic(µ) ~ (h^{
       -1
     }))
+  ) +
+  theme(
+    axis.title.y = element_text(
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
+    )
   )
 fig_1B
 
@@ -47,11 +52,16 @@ fig_1C <- df_alloc %>%
   ) +
   coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.8), expand = FALSE) +
   labs(
-    x = expression("Growth rate" ~ italic(mu) ~ (h^{
+    x = expression("Growth rate" ~ italic(µ) ~ (h^{
       -1
     })),
     y = "Allocation fraction",
     colour = "Protein"
+  ) +
+  theme(
+    axis.title.y = element_text(
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
+    )
   )
 fig_1C
 
@@ -77,7 +87,7 @@ fig_1D <- df_mass %>%
   ) +
   coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.45), expand = FALSE) +
   labs(
-    x = expression("Growth rate" ~ italic(mu) ~ (h^{
+    x = expression("Growth rate" ~ italic(µ) ~ (h^{
       -1
     })),
     y = "Mass fraction",

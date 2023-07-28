@@ -50,7 +50,7 @@ fig_5A <- df_5A %>%
   ) +
   theme(
     axis.title.y = element_text(
-      margin = margin(l = base_size / 2, r = base_size / 4, unit = "pt")
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
     )
   )
 fig_5A
@@ -118,7 +118,7 @@ fig_5B <- df_5B %>%
   ) +
   theme(
     axis.title.y = element_text(
-      margin = margin(l = base_size / 2, r = base_size / 4, unit = "pt")
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
     )
   )
 fig_5B

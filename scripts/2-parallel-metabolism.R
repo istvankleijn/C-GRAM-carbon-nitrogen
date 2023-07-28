@@ -1,5 +1,6 @@
 source(here::here("scripts", "0-preprocessing.R"))
 
+
 fig_2B <- df %>%
   filter(
     experiment %in% c("sweep_kC", "sweep_kN")
@@ -37,13 +38,24 @@ fig_2B <- df %>%
     x = expression("Uptake rate" ~ (h^{
       -1
     })),
-    y = expression("Growth rate" ~ italic(mu) ~ (h^{
+    y = expression("Growth rate" ~ italic(µ) ~ (h^{
       -1
     })),
     colour = "Parameter\nvaried"
+  ) +
+  theme(
+    axis.title.y = element_text(
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
+    )
   )
 fig_2B
 
+
+df_label <- tribble(
+  ~label, ~hjust, ~mu,  ~allocation, ~mass_fraction, ~facet,
+  "RF",   0,      0.68, 0.35,        0.35,           "italic(k)[C]~varied",
+  "PR",   1,      0.4,  0.35,        0.35,           "italic(k)[C]~varied"
+)
 fig_2C <- df_alloc %>%
   filter(
     experiment %in% c("sweep_kC", "sweep_kN"),
@@ -60,6 +72,7 @@ fig_2C <- df_alloc %>%
       geom_vline(
         data = filter(., experiment == "sweep_kC"),
         aes(xintercept = 0.54),
+        colour = "#444444",
         linetype = "22",
       ) +
       geom_point(aes(colour = fraction), size = 1) +
@@ -74,12 +87,19 @@ fig_2C <- df_alloc %>%
         ),
         breaks = c("f_Ef", "f_Er", "f_N", "f_C")
       ) +
+      geom_text(
+        data = df_label,
+        aes(label = label, hjust = hjust),
+        colour = "#444444",
+        family = sansfamily,
+        size = 8 / .pt
+      ) +
       guides(
         colour = guide_legend(title.position = "left")
       ) +
       coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.8), expand = FALSE) +
       labs(
-        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+        x = expression("Growth rate" ~ italic(µ) ~ (h^{
           -1
         })),
         y = "Allocation fraction",
@@ -104,9 +124,17 @@ fig_2D <- df_mass %>%
       geom_vline(
         data = filter(., experiment == "sweep_kC"),
         aes(xintercept = 0.54),
+        colour = "#444444",
         linetype = "22",
       ) +
       geom_point(aes(colour = state_var), size = 1) +
+      geom_text(
+        data = df_label,
+        aes(label = label, hjust = hjust),
+        colour = "#444444",
+        family = sansfamily,
+        size = 8 / .pt
+      ) +
       facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
       scale_colour_manual(
         values = palette_mass,
@@ -123,7 +151,7 @@ fig_2D <- df_mass %>%
       ) +
       coord_cartesian(xlim = c(0, 3.0), ylim = c(0, 0.45), expand = FALSE) +
       labs(
-        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+        x = expression("Growth rate" ~ italic(µ) ~ (h^{
           -1
         })),
         y = "Mass fraction",

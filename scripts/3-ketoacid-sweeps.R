@@ -24,17 +24,26 @@ fig_3B <- df %>%
   ) +
   labs(
     x = "Nutrient C-to-N ratio",
-    y = expression("Growth rate" ~ italic(mu) ~ (h^{
+    y = expression("Growth rate" ~ italic(µ) ~ (h^{
       -1
     })),
     colour = "Recycling\nrate"
   ) +
   theme(
-    legend.text.align = 0
+    axis.title.y = element_text(
+      margin = margin(l = 0.75 * base_size, r = base_size / 4, unit = "pt")
+    )
   )
 fig_3B
 
-
+df_label <- tribble(
+  ~label, ~hjust, ~mu, ~allocation, ~mass_fraction, ~facet,
+  "Re+Up", 0, 1.6, 0.45, 0.45, "italic(k)[Kre] == 10",
+  "Re", 0.5, 1.5, 0.45, 0.45, "italic(k)[Kre] == 10",
+  "Re+Ex", 1, 1.4, 0.45, 0.45, "italic(k)[Kre] == 10",
+  "Up", 0, 1.7, 0.45, 0.45, "italic(k)[Kre] == 5",
+  "Ex+Up", 1, 1.3, 0.45, 0.45, "italic(k)[Kre] == 5"
+)
 fig_3C <- df_alloc %>%
   filter(
     experiment %in% c("k_Kre=10.0_k_N=20.0", "k_Kre=5.0_k_N=20.0"),
@@ -52,19 +61,29 @@ fig_3C <- df_alloc %>%
       geom_vline(
         data = filter(., experiment == "k_Kre=10.0_k_N=20.0"),
         aes(xintercept = 1.44),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_vline(
         data = filter(., experiment == "k_Kre=10.0_k_N=20.0"),
         aes(xintercept = 1.56),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_vline(
         data = filter(., experiment == "k_Kre=5.0_k_N=20.0"),
         aes(xintercept = 1.49),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_point(aes(colour = fraction), size = 1) +
+      geom_text(
+        data = df_label,
+        aes(label = label, hjust = hjust),
+        colour = "#444444",
+        family = sansfamily,
+        size = 8 / .pt
+      ) +
       facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
       scale_colour_manual(
         values = palette_fractions,
@@ -81,9 +100,9 @@ fig_3C <- df_alloc %>%
       guides(
         colour = guide_legend(title.position = "left")
       ) +
-      coord_cartesian(xlim = c(1.0, 2.0), ylim = c(0, 0.4), expand = FALSE) +
+      coord_cartesian(xlim = c(1.0, 2.0), ylim = c(0, 0.5), expand = FALSE) +
       labs(
-        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+        x = expression("Growth rate" ~ italic(µ) ~ (h^{
           -1
         })),
         y = "Allocation fraction",
@@ -110,19 +129,29 @@ fig_3D <- df_mass %>%
       geom_vline(
         data = filter(., experiment == "k_Kre=10.0_k_N=20.0"),
         aes(xintercept = 1.44),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_vline(
         data = filter(., experiment == "k_Kre=10.0_k_N=20.0"),
         aes(xintercept = 1.56),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_vline(
         data = filter(., experiment == "k_Kre=5.0_k_N=20.0"),
         aes(xintercept = 1.49),
+        colour = "#444444",
         linetype = "22"
       ) +
       geom_point(aes(colour = state_var), size = 1) +
+      geom_text(
+        data = df_label,
+        aes(label = label, hjust = hjust),
+        colour = "#444444",
+        family = sansfamily,
+        size = 8 / .pt
+      ) +
       facet_wrap(~facet, ncol = 1, labeller = "label_parsed") +
       scale_colour_manual(
         values = palette_mass,
@@ -139,7 +168,7 @@ fig_3D <- df_mass %>%
       ) +
       coord_cartesian(xlim = c(1.0, 2.0), ylim = c(0, 0.5), expand = FALSE) +
       labs(
-        x = expression("Growth rate" ~ italic(mu) ~ (h^{
+        x = expression("Growth rate" ~ italic(µ) ~ (h^{
           -1
         })),
         y = "Mass fraction",

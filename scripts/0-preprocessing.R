@@ -128,10 +128,10 @@ options(
   ggplot2.discrete.fill = okabe_grey
 )
 
-
+base_size <- 10
 theme_set(
   theme_bw(
-    base_size = 10,
+    base_size = base_size,
     base_family = sansfamily,
     base_line_size = 0.25,
     base_rect_size = 0.5
@@ -143,7 +143,9 @@ theme_set(
       legend.direction = "vertical",
       legend.justification = c(1, 1),
       legend.box.margin = margin(),
-      legend.text.align = 0
+      legend.box.spacing = unit(0, "pt"),
+      legend.text.align = 0,
+      plot.background = element_blank()
     )
 )
 

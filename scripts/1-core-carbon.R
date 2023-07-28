@@ -90,7 +90,7 @@ fig_1AB <- plot_grid(
   nrow = 1,
   rel_widths = c(7, 5),
   labels = c("A", "B"),
-  label_size = 10,
+  label_size = base_size,
   label_fontfamily = sansfamily
 )
 fig_1CD <- plot_grid(
@@ -99,7 +99,7 @@ fig_1CD <- plot_grid(
   rel_widths = c(6, 6),
   align = "h",
   labels = c("C", "D"),
-  label_size = 10,
+  label_size = base_size,
   label_fontfamily = sansfamily
 )
 fig_1CD

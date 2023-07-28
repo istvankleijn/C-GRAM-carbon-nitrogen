@@ -139,7 +139,7 @@ fig_4BCDE <- plot_grid(
   nrow = 2,
   labels = c("B", "C", "D", "E"),
   label_fontfamily = sansfamily,
-  label_size = 10
+  label_size = base_size
 )
 fig_4 <- plot_grid(
   fig_4A, fig_4BCDE,
@@ -147,7 +147,7 @@ fig_4 <- plot_grid(
   rel_widths = c(1, 2),
   labels = c("A", ""),
   label_fontfamily = sansfamily,
-  label_size = 8
+  label_size = base_size
 )
 ggsave(
   "4-ketoacid-phase-diagram.svg",
@@ -163,6 +163,6 @@ ggsave(
   device = cairo_pdf,
   path = plotdir,
   width = 17.5,
-  height = 12.5,
+  height = 10,
   units = "cm"
 )
